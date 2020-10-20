@@ -1,0 +1,3307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 595.3 841.9" style="enable-background:new 0 0 595.3 841.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#BFBFBF;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:0.24;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:none;}
+	.st3{font-family:'Arial-BoldMT';}
+	.st4{font-size:24px;}
+	.st5{font-family:'ArialMT';}
+	.st6{font-size:12px;}
+	.st7{fill:#595959;}
+	.st8{fill:none;stroke:#595959;stroke-width:0.24;}
+	.st9{clip-path:url(#SVGID_2_);}
+	.st10{font-family:'Courier';}
+	.st11{font-size:6px;}
+	.st12{clip-path:url(#SVGID_4_);}
+	.st13{clip-path:url(#SVGID_6_);}
+	.st14{clip-path:url(#SVGID_8_);}
+	.st15{font-size:5px;}
+	.st16{clip-path:url(#SVGID_10_);}
+	.st17{clip-path:url(#SVGID_12_);}
+	.st18{fill:#FFFFCC;}
+	.st19{fill:none;stroke:#808080;stroke-width:0.24;stroke-linecap:round;stroke-linejoin:round;}
+	.st20{font-size:4px;}
+	.st21{fill:#FF00FF;fill-opacity:0;}
+	.st22{fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;}
+	.st23{fill:url(#SVGID_13_);}
+	.st24{fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;}
+	.st25{fill:url(#SVGID_14_);}
+	.st26{fill:url(#SVGID_15_);}
+	.st27{fill:url(#SVGID_16_);}
+	.st28{fill:url(#SVGID_17_);}
+	.st29{fill:url(#SVGID_18_);}
+	.st30{fill:url(#SVGID_19_);}
+	.st31{fill:url(#SVGID_20_);}
+	.st32{fill:url(#SVGID_21_);}
+	.st33{fill:url(#SVGID_22_);}
+	.st34{fill:url(#SVGID_23_);}
+	.st35{fill:url(#SVGID_24_);}
+	.st36{fill:url(#SVGID_25_);}
+	.st37{fill:url(#SVGID_26_);}
+	.st38{fill:url(#SVGID_27_);}
+	.st39{fill:url(#SVGID_28_);}
+	.st40{fill:url(#SVGID_29_);}
+	.st41{fill:url(#SVGID_30_);}
+	.st42{fill:url(#SVGID_31_);}
+	.st43{fill:url(#SVGID_32_);}
+	.st44{font-size:8px;}
+	.st45{fill:url(#SVGID_33_);}
+	.st46{fill:url(#SVGID_34_);}
+	.st47{fill:url(#SVGID_35_);}
+	.st48{fill:url(#SVGID_36_);}
+	.st49{fill:url(#SVGID_37_);}
+	.st50{fill:url(#SVGID_38_);}
+	.st51{fill:url(#SVGID_39_);}
+	.st52{fill:url(#SVGID_40_);}
+	.st53{fill:url(#SVGID_41_);}
+	.st54{fill:url(#SVGID_42_);}
+	.st55{fill:url(#SVGID_43_);}
+	.st56{fill:url(#SVGID_44_);}
+	.st57{fill:url(#SVGID_45_);}
+	.st58{fill:url(#SVGID_46_);}
+	.st59{fill:url(#SVGID_47_);}
+	.st60{fill:url(#SVGID_48_);}
+	.st61{fill:url(#SVGID_49_);}
+	.st62{fill:url(#SVGID_50_);}
+	.st63{fill:url(#SVGID_51_);}
+	.st64{fill:url(#SVGID_52_);}
+	.st65{fill:url(#SVGID_53_);}
+	.st66{fill:url(#SVGID_54_);}
+	.st67{fill:url(#SVGID_55_);}
+	.st68{fill:url(#SVGID_56_);}
+	.st69{fill:url(#SVGID_57_);}
+	.st70{fill:url(#SVGID_58_);}
+	.st71{fill:url(#SVGID_59_);}
+	.st72{fill:url(#SVGID_60_);}
+	.st73{fill:url(#SVGID_61_);}
+	.st74{fill:url(#SVGID_62_);}
+	.st75{fill:url(#SVGID_63_);}
+	.st76{fill:url(#SVGID_64_);}
+	.st77{fill:url(#SVGID_65_);}
+	.st78{fill:url(#SVGID_66_);}
+	.st79{fill:url(#SVGID_67_);}
+	.st80{fill:url(#SVGID_68_);}
+	.st81{fill:url(#SVGID_69_);}
+	.st82{fill:url(#SVGID_70_);}
+	.st83{fill:url(#SVGID_71_);}
+	.st84{fill:url(#SVGID_72_);}
+	.st85{fill:url(#SVGID_73_);}
+	.st86{fill:url(#SVGID_74_);}
+	.st87{fill:url(#SVGID_75_);}
+	.st88{fill:url(#SVGID_76_);}
+	.st89{fill:url(#SVGID_77_);}
+	.st90{fill:url(#SVGID_78_);}
+	.st91{fill:url(#SVGID_79_);}
+	.st92{fill:url(#SVGID_80_);}
+	.st93{fill:url(#SVGID_81_);}
+	.st94{fill:url(#SVGID_82_);}
+	.st95{fill:url(#SVGID_83_);}
+	.st96{fill:url(#SVGID_84_);}
+	.st97{fill:url(#SVGID_85_);}
+	.st98{fill:url(#SVGID_86_);}
+	.st99{fill:url(#SVGID_87_);}
+	.st100{fill:url(#SVGID_88_);}
+	.st101{fill:url(#SVGID_89_);}
+	.st102{fill:url(#SVGID_90_);}
+	.st103{fill:url(#SVGID_91_);}
+	.st104{fill:url(#SVGID_92_);}
+	.st105{fill:url(#SVGID_93_);}
+	.st106{fill:url(#SVGID_94_);}
+	.st107{fill:url(#SVGID_95_);}
+	.st108{fill:url(#SVGID_96_);}
+	.st109{fill:url(#SVGID_97_);}
+	.st110{fill:url(#SVGID_98_);}
+	.st111{fill:url(#SVGID_99_);}
+	.st112{fill:url(#SVGID_100_);}
+	.st113{fill:url(#SVGID_101_);}
+	.st114{fill:url(#SVGID_102_);}
+	.st115{fill:url(#SVGID_103_);}
+	.st116{fill:url(#SVGID_104_);}
+	.st117{fill:url(#SVGID_105_);}
+	.st118{fill:url(#SVGID_106_);}
+	.st119{fill:url(#SVGID_107_);}
+	.st120{fill:url(#SVGID_108_);}
+	.st121{fill:url(#SVGID_109_);}
+	.st122{fill:url(#SVGID_110_);}
+	.st123{fill:url(#SVGID_111_);}
+	.st124{fill:url(#SVGID_112_);}
+	.st125{fill:url(#SVGID_113_);}
+	.st126{fill:url(#SVGID_114_);}
+	.st127{fill:url(#SVGID_115_);}
+	.st128{fill:url(#SVGID_116_);}
+	.st129{fill:url(#SVGID_117_);}
+	.st130{fill:url(#SVGID_118_);}
+	.st131{fill:url(#SVGID_119_);}
+	.st132{fill:url(#SVGID_120_);}
+	.st133{fill:url(#SVGID_121_);}
+	.st134{fill:url(#SVGID_122_);}
+	.st135{fill:url(#SVGID_123_);}
+	.st136{fill:url(#SVGID_124_);}
+	.st137{fill:url(#SVGID_125_);}
+	.st138{fill:url(#SVGID_126_);}
+	.st139{fill:url(#SVGID_127_);}
+	.st140{fill:url(#SVGID_128_);}
+	.st141{fill:url(#SVGID_129_);}
+	.st142{fill:url(#SVGID_130_);}
+	.st143{fill:url(#SVGID_131_);}
+	.st144{fill:url(#SVGID_132_);}
+	.st145{fill:url(#SVGID_133_);}
+	.st146{fill:none;stroke:#969696;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;}
+	.st147{fill:url(#SVGID_134_);}
+	.st148{enable-background:new    ;}
+	.st149{letter-spacing:1;}
+	.st150{fill:url(#SVGID_135_);}
+	.st151{fill:url(#SVGID_136_);}
+	.st152{clip-path:url(#SVGID_138_);}
+	.st153{clip-path:url(#SVGID_140_);}
+	.st154{fill:url(#SVGID_141_);}
+	.st155{fill:url(#SVGID_142_);}
+	.st156{fill:url(#SVGID_143_);}
+	.st157{fill:url(#SVGID_144_);}
+	.st158{fill:url(#SVGID_145_);}
+	.st159{fill:url(#SVGID_146_);}
+	.st160{fill:url(#SVGID_147_);}
+	.st161{fill:url(#SVGID_148_);}
+	.st162{clip-path:url(#SVGID_150_);}
+	.st163{clip-path:url(#SVGID_152_);}
+	.st164{clip-path:url(#SVGID_154_);}
+	.st165{clip-path:url(#SVGID_156_);}
+	.st166{clip-path:url(#SVGID_158_);}
+	.st167{clip-path:url(#SVGID_160_);}
+	.st168{clip-path:url(#SVGID_162_);}
+	.st169{clip-path:url(#SVGID_164_);}
+	.st170{fill:url(#SVGID_165_);}
+	.st171{fill:url(#SVGID_166_);}
+	.st172{fill:url(#SVGID_167_);}
+	.st173{fill:#9A9A9A;fill-opacity:0.5;}
+	.st174{fill:url(#SVGID_168_);}
+	.st175{clip-path:url(#SVGID_170_);}
+	.st176{clip-path:url(#SVGID_172_);}
+	.st177{clip-path:url(#SVGID_174_);}
+	.st178{clip-path:url(#SVGID_176_);}
+	.st179{clip-path:url(#SVGID_178_);}
+	.st180{clip-path:url(#SVGID_180_);}
+	.st181{clip-path:url(#SVGID_182_);}
+	.st182{clip-path:url(#SVGID_184_);}
+	.st183{clip-path:url(#SVGID_186_);}
+	.st184{clip-path:url(#SVGID_188_);}
+	.st185{clip-path:url(#SVGID_190_);}
+	.st186{clip-path:url(#SVGID_192_);}
+	.st187{clip-path:url(#SVGID_194_);}
+	.st188{clip-path:url(#SVGID_196_);}
+	.st189{clip-path:url(#SVGID_198_);}
+	.st190{clip-path:url(#SVGID_200_);}
+	.st191{clip-path:url(#SVGID_202_);}
+	.st192{clip-path:url(#SVGID_204_);}
+	.st193{clip-path:url(#SVGID_206_);}
+	.st194{clip-path:url(#SVGID_208_);}
+	.st195{clip-path:url(#SVGID_210_);}
+	.st196{clip-path:url(#SVGID_212_);}
+	.st197{clip-path:url(#SVGID_214_);}
+	.st198{clip-path:url(#SVGID_216_);}
+	.st199{clip-path:url(#SVGID_218_);}
+	.st200{clip-path:url(#SVGID_220_);}
+	.st201{clip-path:url(#SVGID_222_);}
+	.st202{clip-path:url(#SVGID_224_);}
+	.st203{clip-path:url(#SVGID_226_);}
+	.st204{fill:#FFFFFF;}
+	.st205{fill:none;stroke:#000000;stroke-width:0.24;stroke-linecap:round;stroke-linejoin:round;}
+	.st206{clip-path:url(#SVGID_228_);}
+	.st207{clip-path:url(#SVGID_230_);}
+	.st208{clip-path:url(#SVGID_232_);}
+	.st209{clip-path:url(#SVGID_234_);}
+	.st210{font-size:10px;}
+	.st211{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st212{fill:#5954A4; cursor: pointer;}
+	.st213{font-family:'TimesNewRomanPSMT';}
+	.box:hover path{cursor: pointer; fill: #2ecc71;}
+	.box:hover .st212{cursor: pointer; fill: white;}
+	.box:hover rect{cursor: pointer; fill: #2ecc71;}
+</style>
+<g id="Layer_1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink">
+	<defs>
+		
+		
+			<font-face  ascent="905.2734" cap-height="715.8203" descent="-211.91406" font-family="Arial" font-size="24" font-weight="bold" panose-1="2 11 7 4 2 2 2 2 2 4" slope="0" underline-position="-105.95703" underline-thickness="104.98047" units-per-em="1000" x-height="518.5547">
+			<font-face-src>
+				<font-face-name  name="Arial-BoldMT"></font-face-name>
+			</font-face-src>
+		</font-face>
+		
+			<font-face  ascent="753.90625" cap-height="586.91406" descent="-246.09375" font-family="Courier" font-size="6" font-weight="500" slope="0" underline-position="-178.22266" underline-thickness="57.61719" units-per-em="1000" x-height="456.54297">
+			<font-face-src>
+				<font-face-name  name="Courier"></font-face-name>
+			</font-face-src>
+		</font-face>
+		
+			<font-face  ascent="905.2734" cap-height="716.3086" descent="-211.91406" font-family="Arial" font-size="5" font-weight="500" panose-1="2 11 6 4 2 2 2 2 2 4" slope="0" underline-position="-105.95703" underline-thickness="73.24219" units-per-em="1000" x-height="518.5547">
+			<font-face-src>
+				<font-face-name  name="ArialMT"></font-face-name>
+			</font-face-src>
+		</font-face>
+		
+			<font-face  ascent="905.2734" cap-height="716.3086" descent="-211.91406" font-family="Arial" font-size="4" font-weight="500" panose-1="2 11 6 4 2 2 2 2 2 4" slope="0" underline-position="-105.95703" underline-thickness="73.24219" units-per-em="1000" x-height="518.5547">
+			<font-face-src>
+				<font-face-name  name="ArialMT"></font-face-name>
+			</font-face-src>
+		</font-face>
+		
+			<font-face  ascent="905.2734" cap-height="716.3086" descent="-211.91406" font-family="Arial" font-size="8" font-weight="500" panose-1="2 11 6 4 2 2 2 2 2 4" slope="0" underline-position="-105.95703" underline-thickness="73.24219" units-per-em="1000" x-height="518.5547">
+			<font-face-src>
+				<font-face-name  name="ArialMT"></font-face-name>
+			</font-face-src>
+		</font-face>
+		
+			<font-face  ascent="905.2734" cap-height="716.3086" descent="-211.91406" font-family="Arial" font-size="6" font-weight="500" panose-1="2 11 6 4 2 2 2 2 2 4" slope="0" underline-position="-105.95703" underline-thickness="73.24219" units-per-em="1000" x-height="518.5547">
+			<font-face-src>
+				<font-face-name  name="ArialMT"></font-face-name>
+			</font-face-src>
+		</font-face>
+		
+			<font-face  ascent="753.90625" cap-height="586.91406" descent="-246.09375" font-family="Courier" font-size="10" font-weight="500" slope="0" underline-position="-178.22266" underline-thickness="57.61719" units-per-em="1000" x-height="456.54297">
+			<font-face-src>
+				<font-face-name  name="Courier"></font-face-name>
+			</font-face-src>
+		</font-face>
+		
+			<font-face  ascent="905.2734" cap-height="716.3086" descent="-211.91406" font-family="Arial" font-size="10" font-weight="500" panose-1="2 11 6 4 2 2 2 2 2 4" slope="0" underline-position="-105.95703" underline-thickness="73.24219" units-per-em="1000" x-height="518.5547">
+			<font-face-src>
+				<font-face-name  name="ArialMT"></font-face-name>
+			</font-face-src>
+		</font-face>
+		
+			<font-face  ascent="753.90625" cap-height="586.91406" descent="-246.09375" font-family="Courier" font-size="12" font-weight="500" slope="0" underline-position="-178.22266" underline-thickness="57.61719" units-per-em="1000" x-height="456.54297">
+			<font-face-src>
+				<font-face-name  name="Courier"></font-face-name>
+			</font-face-src>
+		</font-face>
+	</defs>
+	<title>Lt2-OCS-2.6</title>
+	<title>Layer 1</title>
+	<rect x="345.2" y="644.2" class="st0" width="28" height="25.7"/>
+	<rect x="345.2" y="644.2" class="st1" width="28" height="25.7"/>
+	<rect x="321.3" y="644.3" class="st0" width="25" height="25.7"/>
+	<rect x="321.3" y="644.3" class="st1" width="25" height="25.7"/>
+	<rect x="295.3" y="644.2" class="st0" width="26.2" height="25.7"/>
+	<rect x="295.3" y="644.2" class="st1" width="26.2" height="25.7"/>
+	<rect x="146.5" y="20.5" class="st2" width="32" height="29.6"/>
+	<text transform="matrix(1 0 0 1 146.4805 41.1294)" class="st3 st4">LA</text>
+	<text transform="matrix(1 0 0 1 178.4727 41.1293)" class="st5 st6"> </text>
+	<text transform="matrix(1 0 0 1 176.2695 41.1293)" class="st3 st4">YOUT RUANG OCS 2.6</text>
+	<path class="st7" d="M464.5,217.1v-71.8h-4.8H455v71.8h4.8H464.5z"/>
+	<path class="st8" d="M464.5,217.1v-71.8h-4.8H455v71.8h4.8H464.5z"/>
+	<rect x="421.7" y="106.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="106.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="81.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="81.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="106.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="106.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="81.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="81.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="106.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="106.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="81.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="81.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="106.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="106.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="81.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="81.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="106.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="106.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="81.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="81.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="106.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="106.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="81.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="81.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="106.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="106.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="81.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="81.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="106.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="106.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="81.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="81.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="106.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="106.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="81.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="81.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="106.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="106.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="81.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="81.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="106.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="106.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="81.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="81.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="106.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="106.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="81.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="81.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="106.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="106.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="81.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="81.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="106.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="106.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="81.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="81.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="154.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="154.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="129" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="129" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="154.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="154.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="129" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="129" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="154.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="154.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="129" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="129" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="154.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="154.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="129" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="129" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="154.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="154.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="129" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="129" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="154.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="154.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="129" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="129" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="154.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="154.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="129" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="129" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="154.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="154.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="129" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="129" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="154.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="154.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="129" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="129" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="154.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="154.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="129" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="129" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="154.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="154.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="129" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="129" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="154.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="154.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="129" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="129" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="154.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="154.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="129" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="129" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="154.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="154.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="129" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="129" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="204.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="204.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="179" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="179" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="204.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="204.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="179" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="179" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="204.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="204.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="179" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="179" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="204.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="204.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="179" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="179" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="204.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="204.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="179" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="179" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="204.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="204.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="179" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="179" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="204.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="204.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="179" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="179" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="204.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="204.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="179" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="179" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="204.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="204.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="179" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="179" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="204.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="204.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="179" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="179" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="204.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="204.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="179" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="179" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="204.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="204.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="179" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="179" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="204.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="204.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="179" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="179" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="204.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="204.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="179" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="179" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="251.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="251.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="226.7" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="226.7" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="251.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="251.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="226.7" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="226.7" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="251.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="251.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="226.7" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="226.7" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="251.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="251.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="226.7" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="226.7" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="251.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="251.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="226.7" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="226.7" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="251.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="251.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="226.7" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="226.7" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="251.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="251.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="226.7" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="226.7" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="251.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="251.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="226.7" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="226.7" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="251.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="251.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="226.7" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="226.7" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="251.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="251.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="226.7" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="226.7" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="251.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="251.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="226.7" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="226.7" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="251.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="251.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="226.7" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="226.7" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="251.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="251.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="226.7" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="226.7" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="251.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="251.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="226.7" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="226.7" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="302.4" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="302.4" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="277.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="277.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="302.4" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="302.4" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="277.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="277.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="302.4" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="302.4" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="277.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="277.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="302.4" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="302.4" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="277.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="277.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="302.4" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="302.4" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="277.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="277.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="302.4" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="302.4" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="277.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="277.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="302.4" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="302.4" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="277.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="277.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="302.4" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="302.4" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="277.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="277.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="302.4" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="302.4" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="277.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="277.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="302.4" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="302.4" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="277.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="277.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="302.4" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="302.4" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="277.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="277.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="302.4" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="302.4" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="277.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="277.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="302.4" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="302.4" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="277.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="277.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="302.4" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="302.4" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="277.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="277.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="350.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="350.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="324.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="324.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="350.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="350.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="324.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="324.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="350.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="350.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="324.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="324.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="350.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="350.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="324.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="324.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="350.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="350.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="324.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="324.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="350.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="350.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="324.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="324.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="350.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="350.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="324.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="324.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="350.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="350.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="324.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="324.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="350.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="350.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="324.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="324.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="350.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="350.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="324.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="324.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="350.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="350.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="324.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="324.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="350.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="350.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="324.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="324.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="350.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="350.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="324.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="324.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="350.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="350.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="324.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="324.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="400.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="400.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="374.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="374.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="400.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="400.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="374.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="374.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="400.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="400.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="374.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="374.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="400.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="400.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="374.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="374.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="400.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="400.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="374.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="374.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="400.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="400.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="374.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="374.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="400.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="400.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="374.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="374.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="400.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="400.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="374.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="374.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="400.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="400.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="374.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="374.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="400.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="400.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="374.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="374.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="400.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="400.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="374.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="374.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="400.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="400.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="374.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="374.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="400.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="400.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="374.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="374.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="400.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="400.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="374.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="374.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="447.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="447.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="422.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="422.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="447.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="447.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="422.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="422.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="447.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="447.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="422.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="422.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="447.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="447.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="422.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="422.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="447.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="447.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="422.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="422.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="447.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="447.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="422.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="422.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="447.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="447.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="422.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="422.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="447.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="447.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="422.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="422.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="447.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="447.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="422.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="422.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="447.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="447.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="422.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="422.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="447.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="447.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="422.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="422.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="447.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="447.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="422.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="422.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="447.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="447.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="422.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="422.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="447.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="447.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="422.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="422.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="498.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="498.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="473" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="473" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="498.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="498.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="473" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="473" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="498.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="498.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="473" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="473" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="498.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="498.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="473" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="473" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="498.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="498.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="473" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="473" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="498.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="498.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="473" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="473" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="498.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="498.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="473" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="473" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="498.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="498.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="473" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="473" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="498.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="498.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="473" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="473" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="498.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="498.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="473" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="473" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="498.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="498.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="473" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="473" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="498.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="498.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="473" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="473" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="498.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="498.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="473" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="473" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="498.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="498.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="473" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="473" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="546" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="546" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="520.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="520.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="546" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="546" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="520.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="520.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="546" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="546" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="520.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="520.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="546" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="546" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="520.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="520.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="546" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="546" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="520.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="520.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="546" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="546" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="520.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="520.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="546" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="546" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="520.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="520.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="546" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="546" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="520.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="520.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="546" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="546" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="520.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="520.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="546" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="546" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="520.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="520.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="546" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="546" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="520.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="520.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="546" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="546" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="520.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="520.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="546" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="546" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="520.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="520.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="546" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="546" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="520.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="520.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="596.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="596.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="571.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="571.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="596.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="596.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="571.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="571.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="596.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="596.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="571.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="571.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="596.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="596.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="571.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="571.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="596.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="596.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="571.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="571.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="596.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="596.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="571.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="571.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="596.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="596.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="571.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="571.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="596.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="596.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="571.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="571.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="596.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="596.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="571.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="571.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="596.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="596.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="571.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="571.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="596.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="596.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="571.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="571.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="596.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="596.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="571.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="571.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="596.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="596.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="571.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="571.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="596.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="596.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="571.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="571.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="644.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="644.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="619" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="619" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="644.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="644.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="619" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="619" class="st1" width="26.2" height="25.3"/>
+	<rect x="372.3" y="644.2" class="st0" width="25" height="25.3"/>
+	<rect x="372.3" y="644.2" class="st1" width="25" height="25.3"/>
+	<rect x="371.7" y="619" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.7" y="619" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="619" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="619" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="619" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="619" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="619" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="619" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="619" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="619" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="619" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="619" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="644.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="644.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="644.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="644.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="644.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="644.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="619" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="619" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="644.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="644.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="619" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="619" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="644.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="644.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="619" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="619" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="644.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="644.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="619" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="619" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="644.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="644.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="619" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="619" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="644.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="644.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="619" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="619" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="694.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="694.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="668.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="668.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="694.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="694.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="668.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="668.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="694.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="694.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="668.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="668.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="694.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="694.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="668.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="668.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="694.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="694.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="668.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="668.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="694.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="694.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="668.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="668.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="694.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="694.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="668.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="668.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="694.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="694.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="668.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="668.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="694.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="694.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="668.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="668.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="694.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="694.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="668.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="668.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="694.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="694.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="668.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="668.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="694.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="694.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="668.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="668.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="694.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="694.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="668.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="668.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="694.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="694.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="668.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="668.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="741.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="741.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="716.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="421.7" y="716.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="741.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="741.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="396.7" y="716.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="396.7" y="716.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="741.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="741.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="371.1" y="716.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="371.1" y="716.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="741.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="741.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="346.2" y="716.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="346.2" y="716.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="741.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="741.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="320.3" y="716.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="320.3" y="716.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="741.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="741.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="295.3" y="716.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="295.3" y="716.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="741.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="741.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="269.5" y="716.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="269.5" y="716.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="741.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="741.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="244.5" y="716.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="244.5" y="716.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="741.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="741.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="218.9" y="716.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="218.9" y="716.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="741.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="741.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="194" y="716.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="194" y="716.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="741.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="741.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="168.1" y="716.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="168.1" y="716.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="741.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="741.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="143.2" y="716.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="143.2" y="716.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="741.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="741.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="117" y="716.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="117" y="716.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="741.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="741.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="91.1" y="716.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="91.1" y="716.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="421.7" y="767.1" class="st0" width="26.2" height="11.2"/>
+	<rect x="421.7" y="767.1" class="st1" width="26.2" height="11.2"/>
+	<rect x="396.7" y="767.1" class="st0" width="26.2" height="11.2"/>
+	<rect x="396.7" y="767.1" class="st1" width="26.2" height="11.2"/>
+	<rect x="371.1" y="767.1" class="st0" width="26.2" height="11.2"/>
+	<rect x="371.1" y="767.1" class="st1" width="26.2" height="11.2"/>
+	<rect x="346.2" y="767.1" class="st0" width="26.2" height="11.2"/>
+	<rect x="346.2" y="767.1" class="st1" width="26.2" height="11.2"/>
+	<rect x="320.3" y="767.1" class="st0" width="26.2" height="11.2"/>
+	<rect x="320.3" y="767.1" class="st1" width="26.2" height="11.2"/>
+	<rect x="295.3" y="767.1" class="st0" width="26.2" height="11.2"/>
+	<rect x="295.3" y="767.1" class="st1" width="26.2" height="11.2"/>
+	<rect x="269.5" y="767.1" class="st0" width="26.2" height="11.2"/>
+	<rect x="269.5" y="767.1" class="st1" width="26.2" height="11.2"/>
+	<rect x="244.5" y="767.1" class="st0" width="26.2" height="11.2"/>
+	<rect x="244.5" y="767.1" class="st1" width="26.2" height="11.2"/>
+	<rect x="218.9" y="767.1" class="st0" width="26.2" height="11.2"/>
+	<rect x="218.9" y="767.1" class="st1" width="26.2" height="11.2"/>
+	<rect x="194" y="767.1" class="st0" width="26.2" height="11.2"/>
+	<rect x="194" y="767.1" class="st1" width="26.2" height="11.2"/>
+	<rect x="168.1" y="767.1" class="st0" width="26.2" height="11.2"/>
+	<rect x="168.1" y="767.1" class="st1" width="26.2" height="11.2"/>
+	<rect x="143.2" y="767.1" class="st0" width="26.2" height="11.2"/>
+	<rect x="143.2" y="767.1" class="st1" width="26.2" height="11.2"/>
+	<rect x="117" y="767.1" class="st0" width="26.2" height="11.2"/>
+	<rect x="117" y="767.1" class="st1" width="26.2" height="11.2"/>
+	<rect x="91.1" y="767.1" class="st0" width="26.2" height="11.2"/>
+	<rect x="91.1" y="767.1" class="st1" width="26.2" height="11.2"/>
+	<rect x="79.2" y="106.6" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="106.6" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="81.3" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="81.3" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="154.3" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="154.3" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="129" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="129" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="204.2" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="204.2" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="179" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="179" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="251.9" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="251.9" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="226.7" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="226.7" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="302.4" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="302.4" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="277.2" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="277.2" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="350.1" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="350.1" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="324.9" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="324.9" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="400.1" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="400.1" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="374.8" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="374.8" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="447.8" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="447.8" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="422.5" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="422.5" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="498.3" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="498.3" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="473" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="473" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="546" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="546" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="520.8" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="520.8" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="596.5" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="596.5" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="571.3" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="571.3" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="644.2" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="644.2" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="619" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="619" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="694.2" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="694.2" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="668.9" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="668.9" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="741.9" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="741.9" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="716.6" class="st0" width="11.9" height="25.3"/>
+	<rect x="79.2" y="716.6" class="st1" width="11.9" height="25.3"/>
+	<rect x="79.2" y="767.1" class="st0" width="11.9" height="11.2"/>
+	<rect x="79.2" y="767.1" class="st1" width="11.9" height="11.2"/>
+	<path class="st7" d="M69.7,76.8l0,706h4.8h4.8l0-706h-4.8H69.7z"/>
+	<path class="st8" d="M69.7,76.8l0,706h4.8h4.8l0-706h-4.8H69.7z"/>
+	<path class="st7" d="M69.7,82.4l290.1,0v-4.5v-4.5l-290.1,0v4.5V82.4z"/>
+	<path class="st8" d="M69.7,82.4l290.1,0v-4.5v-4.5l-290.1,0v4.5V82.4z"/>
+	<rect x="447.6" y="106.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="106.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="81.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="81.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="154.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="154.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="129" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="129" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="204.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="204.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="179" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="179" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="251.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="251.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="226.7" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="226.7" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="302.4" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="302.4" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="277.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="277.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="350.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="350.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="324.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="324.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="400.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="400.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="374.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="374.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="447.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="447.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="422.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="422.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="498.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="498.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="473" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="473" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="546" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="546" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="520.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="520.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="596.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="596.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="571.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="571.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="644.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="644.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="619" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="619" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="694.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="694.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="668.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="668.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="741.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="741.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="716.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="447.6" y="716.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="447.6" y="767.1" class="st0" width="26.2" height="11.2"/>
+	<rect x="447.6" y="767.1" class="st1" width="26.2" height="11.2"/>
+	<path class="st7" d="M455,679.6v103.3h4.8h4.8V679.6h-4.8H455z"/>
+	<path class="st8" d="M455,679.6v103.3h4.8h4.8V679.6h-4.8H455z"/>
+	<path class="st7" d="M464.5,778.4H69.7v4.5v4.5h394.7v-4.5V778.4z"/>
+	<path class="st8" d="M464.5,778.4H69.7v4.5v4.5h394.7v-4.5V778.4z"/>
+	<rect x="473.5" y="596.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="473.5" y="596.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="473.5" y="644.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="473.5" y="644.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="473.5" y="619" class="st0" width="26.2" height="25.3"/>
+	<rect x="473.5" y="619" class="st1" width="26.2" height="25.3"/>
+	<rect x="473.5" y="668.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="473.5" y="668.9" class="st1" width="26.2" height="25.3"/>
+	<path class="st7" d="M464.5,583.1v-65.1h-4.8H455v65.1h4.8H464.5z"/>
+	<path class="st8" d="M464.5,583.1v-65.1h-4.8H455v65.1h4.8H464.5z"/>
+	<rect x="473.5" y="571.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="473.5" y="571.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="499.7" y="596.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="499.7" y="596.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="499.7" y="644.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="499.7" y="644.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="499.7" y="619" class="st0" width="26.2" height="25.3"/>
+	<rect x="499.7" y="619" class="st1" width="26.2" height="25.3"/>
+	<rect x="499.7" y="669" class="st0" width="26.2" height="25.3"/>
+	<rect x="499.7" y="669" class="st1" width="26.2" height="25.3"/>
+	<rect x="499.7" y="571.4" class="st0" width="26.2" height="25.3"/>
+	<rect x="499.7" y="571.4" class="st1" width="26.2" height="25.3"/>
+	<path class="st7" d="M528.7,679.6H455v4.5v4.5h73.7v-4.5V679.6z"/>
+	<path class="st8" d="M528.7,679.6H455v4.5v4.5h73.7v-4.5V679.6z"/>
+	<path class="st7" d="M528.7,580.8H455v4.5v4.5h73.7v-4.5V580.8z"/>
+	<path class="st8" d="M528.7,580.8H455v4.5v4.5h73.7v-4.5V580.8z"/>
+	<path class="st7" d="M534.6,688.6V580.8h-4.8l-4.8,0v107.8h4.8H534.6z"/>
+	<path class="st8" d="M534.6,688.6V580.8h-4.8l-4.8,0v107.8h4.8H534.6z"/>
+	<path class="st7" d="M464.5,419.2v-101h-4.8H455v101h4.8H464.5z"/>
+	<path class="st8" d="M464.5,419.2v-101h-4.8H455v101h4.8H464.5z"/>
+	<path class="st7" d="M369.3,152V73.4h-4.8h-4.8V152h4.8H369.3z"/>
+	<path class="st8" d="M369.3,152V73.4h-4.8h-4.8V152h4.8H369.3z"/>
+	<path class="st7" d="M464.5,143.5H359.8v4.5v4.5h104.6V148V143.5z"/>
+	<path class="st8" d="M464.5,143.5H359.8v4.5v4.5h104.6V148V143.5z"/>
+	<rect x="474" y="400.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="474" y="400.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="474" y="447.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="474" y="447.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="474" y="422.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="474" y="422.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="474" y="498.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="474" y="498.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="474" y="473" class="st0" width="26.2" height="25.3"/>
+	<rect x="474" y="473" class="st1" width="26.2" height="25.3"/>
+	<rect x="500.1" y="400.1" class="st0" width="26.2" height="25.3"/>
+	<rect x="500.1" y="400.1" class="st1" width="26.2" height="25.3"/>
+	<rect x="500.1" y="447.8" class="st0" width="26.2" height="25.3"/>
+	<rect x="500.1" y="447.8" class="st1" width="26.2" height="25.3"/>
+	<rect x="500.1" y="422.5" class="st0" width="26.2" height="25.3"/>
+	<rect x="500.1" y="422.5" class="st1" width="26.2" height="25.3"/>
+	<rect x="500.1" y="498.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="500.1" y="498.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="500.1" y="473" class="st0" width="26.2" height="25.3"/>
+	<rect x="500.1" y="473" class="st1" width="26.2" height="25.3"/>
+	<path class="st7" d="M534.6,517.9H455v4.5v4.5h79.7v-4.5V517.9z"/>
+	<path class="st8" d="M534.6,517.9H455v4.5v4.5h79.7v-4.5V517.9z"/>
+	<path class="st7" d="M534.6,526.9V419.2l-4.8,0h-4.8v107.8h4.8H534.6z"/>
+	<path class="st8" d="M534.6,526.9V419.2l-4.8,0h-4.8v107.8h4.8H534.6z"/>
+	<path class="st7" d="M534.6,410.2H455v4.5v4.5h79.7v-4.5V410.2z"/>
+	<path class="st8" d="M534.6,410.2H455v4.5v4.5h79.7v-4.5V410.2z"/>
+	<rect x="474" y="106.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="474" y="106.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="474" y="81.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="474" y="81.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="474" y="154.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="474" y="154.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="474" y="129" class="st0" width="26.2" height="25.3"/>
+	<rect x="474" y="129" class="st1" width="26.2" height="25.3"/>
+	<rect x="474" y="204.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="474" y="204.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="474" y="179" class="st0" width="26.2" height="25.3"/>
+	<rect x="474" y="179" class="st1" width="26.2" height="25.3"/>
+	<rect x="474" y="251.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="474" y="251.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="474" y="226.7" class="st0" width="26.2" height="25.3"/>
+	<rect x="474" y="226.7" class="st1" width="26.2" height="25.3"/>
+	<rect x="474" y="302.4" class="st0" width="26.2" height="25.3"/>
+	<rect x="474" y="302.4" class="st1" width="26.2" height="25.3"/>
+	<rect x="474" y="277.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="474" y="277.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="499.9" y="106.6" class="st0" width="26.2" height="25.3"/>
+	<rect x="499.9" y="106.6" class="st1" width="26.2" height="25.3"/>
+	<rect x="499.9" y="81.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="499.9" y="81.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="499.9" y="154.3" class="st0" width="26.2" height="25.3"/>
+	<rect x="499.9" y="154.3" class="st1" width="26.2" height="25.3"/>
+	<rect x="499.9" y="129" class="st0" width="26.2" height="25.3"/>
+	<rect x="499.9" y="129" class="st1" width="26.2" height="25.3"/>
+	<rect x="499.9" y="204.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="499.9" y="204.2" class="st1" width="26.2" height="25.3"/>
+	<rect x="499.9" y="179" class="st0" width="26.2" height="25.3"/>
+	<rect x="499.9" y="179" class="st1" width="26.2" height="25.3"/>
+	<rect x="499.9" y="251.9" class="st0" width="26.2" height="25.3"/>
+	<rect x="499.9" y="251.9" class="st1" width="26.2" height="25.3"/>
+	<rect x="499.9" y="226.7" class="st0" width="26.2" height="25.3"/>
+	<rect x="499.9" y="226.7" class="st1" width="26.2" height="25.3"/>
+	<rect x="499.9" y="302.4" class="st0" width="26.2" height="25.3"/>
+	<rect x="499.9" y="302.4" class="st1" width="26.2" height="25.3"/>
+	<rect x="499.9" y="277.2" class="st0" width="26.2" height="25.3"/>
+	<rect x="499.9" y="277.2" class="st1" width="26.2" height="25.3"/>
+	<path class="st7" d="M534.6,318.1H455v4.5v4.5h79.7v-4.5V318.1z"/>
+	<path class="st8" d="M534.6,318.1H455v4.5v4.5h79.7v-4.5V318.1z"/>
+	<path class="st7" d="M534.6,327.1V210.4h-4.8h-4.8l0,116.7h4.8H534.6z"/>
+	<path class="st8" d="M534.6,327.1V210.4h-4.8h-4.8l0,116.7h4.8H534.6z"/>
+	<path class="st7" d="M534.6,208.1H455v4.5v4.5h79.7v-4.5V208.1z"/>
+	<path class="st8" d="M534.6,208.1H455v4.5v4.5h79.7v-4.5V208.1z"/>
+	<rect id="path" x="450.2" y="226.1" class="st2" width="35.7" height="85.3"/>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="450.2" y="226.1" width="35.7" height="85.3"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st9">
+		</g>
+	</g>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 493.4976 277.4697)" class="st10 st11">AC 2.3 </text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 500.4976 270.2686)" class="st10 st11">RC</text>
+	<rect id="path_2" x="450.2" y="425.9" class="st2" width="35.7" height="85.3"/>
+	<g>
+		<defs>
+			<rect id="SVGID_3_" x="450.2" y="425.9" width="35.7" height="85.3"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st12">
+		</g>
+	</g>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 492.176 473.9932)" class="st10 st11">AC 2.4 </text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 499.176 466.792)" class="st10 st11">RC</text>
+	<rect id="path_3" x="452.6" y="592" class="st2" width="35.7" height="85.3"/>
+	<g>
+		<defs>
+			<rect id="SVGID_5_" x="452.6" y="592" width="35.7" height="85.3"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st13">
+		</g>
+	</g>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 496.3006 650.8516)" class="st10 st11">AC 2.5 </text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 503.3006 643.6504)" class="st10 st11">RC</text>
+	<rect id="path_4" x="84" y="596.5" class="st2" width="35.7" height="85.3"/>
+	<g>
+		<defs>
+			<rect id="SVGID_7_" x="84" y="596.5" width="35.7" height="85.3"/>
+		</defs>
+		<clipPath id="SVGID_8_">
+			<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st14">
+		</g>
+	</g>
+	<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 71.0801 629.0441)" class="st5 st15">AC 2.1 RC</text>
+	<rect id="path_5" x="84" y="481.9" class="st2" width="35.7" height="69.6"/>
+	<g>
+		<defs>
+			<rect id="SVGID_9_" x="84" y="481.9" width="35.7" height="69.6"/>
+		</defs>
+		<clipPath id="SVGID_10_">
+			<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st16">
+		</g>
+	</g>
+	<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 82.0195 514.0014)" class="st5 st15">AC </text>
+	<rect x="74.2" y="504.8" class="st2" width="5.9" height="25.3"/>
+	<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 75.8574 504.8339)" class="st5 st15">EMERSON</text>
+	<rect id="path_6" x="84" y="225" class="st2" width="35.7" height="85.3"/>
+	<g>
+		<defs>
+			<rect id="SVGID_11_" x="84" y="225" width="35.7" height="85.3"/>
+		</defs>
+		<clipPath id="SVGID_12_">
+			<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st17">
+		</g>
+	</g>
+	<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 74.3848 256.6047)" class="st5 st15">AC 2.2 RC</text>
+	<rect x="100.6" y="82.4" class="st18" width="34.5" height="6.7"/>
+	<rect x="100.6" y="82.4" class="st19" width="34.5" height="6.7"/>
+	<rect x="104.7" y="93" class="st2" width="20" height="4.7"/>
+	<text transform="matrix(1 0 0 1 104.7197 96.4235)" class="st5 st20">Panel EMS</text>
+	<path class="st21" d="M180.4,446.7h0.4v-3.4h1.3v-21.9h-26.7v21.9h1.3v3.4h0.4l0.2,1.7h1.3l0.2-1.7h20l0.2,1.7h1.3L180.4,446.7z"/>
+	<path class="st22" d="M180.4,446.7h0.4v-3.4h1.3v-21.9h-26.7v21.9h1.3v3.4h0.4l0.2,1.7h1.3l0.2-1.7h20l0.2,1.7h1.3L180.4,446.7z"/>
+	
+		<radialGradient id="SVGID_13_" cx="-7.2961" cy="817.9805" r="1" gradientTransform="matrix(25.9009 0 0 -25.9009 329.6435 21607.4531)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<rect x="140.7" y="421" class="st23" width="26.7" height="21.9"/>
+	<rect x="140.7" y="421" class="st24" width="26.7" height="21.9"/>
+	
+		<radialGradient id="SVGID_14_" cx="-8.4504" cy="821.8021" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 187.2323 4780.2954)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st25" d="M143.2,438.7v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H143.2z"/>
+	<path class="st24" d="M143.2,438.7v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H143.2z"/>
+	
+		<radialGradient id="SVGID_15_" cx="-10.2211" cy="827.6647" r="1" gradientTransform="matrix(2.3812 0 0 -2.3812 176.2743 2401.0767)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<circle class="st26" cx="151.9" cy="430.3" r="1.7"/>
+	
+		<radialGradient id="SVGID_16_" cx="-10.2211" cy="827.6647" r="1" gradientTransform="matrix(2.3812 0 0 -2.3812 167.9268 2396.0254)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<circle class="st27" cx="143.6" cy="425.2" r="1.7"/>
+	
+		<radialGradient id="SVGID_17_" cx="-8.4504" cy="821.8021" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 191.406 4780.2954)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st28" d="M147.3,438.7v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H147.3z"/>
+	<path class="st24" d="M147.3,438.7v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H147.3z"/>
+	
+		<radialGradient id="SVGID_18_" cx="-8.4504" cy="821.8021" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 195.5798 4780.2954)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st29" d="M151.5,438.7v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H151.5z"/>
+	<path class="st24" d="M151.5,438.7v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H151.5z"/>
+	
+		<radialGradient id="SVGID_19_" cx="-8.4504" cy="821.8021" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 199.7535 4780.2954)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st30" d="M155.7,438.7v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H155.7z"/>
+	<path class="st24" d="M155.7,438.7v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H155.7z"/>
+	
+		<radialGradient id="SVGID_20_" cx="-8.4504" cy="821.8021" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 203.9272 4780.2954)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st31" d="M159.9,438.7v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H159.9z"/>
+	<path class="st24" d="M159.9,438.7v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H159.9z"/>
+	
+		<radialGradient id="SVGID_21_" cx="-8.4504" cy="821.8021" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 208.101 4780.2954)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st32" d="M164,438.7v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H164z"/>
+	<path class="st24" d="M164,438.7v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H164z"/>
+	
+		<radialGradient id="SVGID_22_" cx="-11.4215" cy="831.6391" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 163.4016 1872.9166)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st33" cx="143.6" cy="430.3" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_23_" cx="-11.4215" cy="831.6391" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 171.7491 1867.8654)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st34" cx="151.9" cy="425.2" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_24_" cx="-11.4215" cy="831.6391" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 167.5753 1867.8654)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st35" cx="147.8" cy="425.2" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_25_" cx="-11.4215" cy="831.6391" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 167.5753 1872.9166)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st36" cx="147.8" cy="430.3" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_26_" cx="-11.4215" cy="831.6391" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 175.9228 1872.9166)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st37" cx="156.1" cy="430.3" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_27_" cx="-11.4215" cy="831.6391" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 175.9228 1867.8654)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st38" cx="156.1" cy="425.2" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_28_" cx="-11.4215" cy="831.6391" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 180.0965 1867.8654)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st39" cx="160.3" cy="425.2" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_29_" cx="-11.4215" cy="831.6391" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 180.0965 1872.9166)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st40" cx="160.3" cy="430.3" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_30_" cx="-11.4215" cy="831.6391" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 184.2702 1872.9166)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st41" cx="164.5" cy="430.3" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_31_" cx="-11.4215" cy="831.6391" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 184.2702 1867.8654)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st42" cx="164.5" cy="425.2" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_32_" cx="-7.4184" cy="818.3854" r="1" gradientTransform="matrix(18.3306 0 0 -18.3306 277.9031 15444.3643)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<rect x="141.9" y="442.9" class="st43" width="24.2" height="3.4"/>
+	<rect x="141.9" y="442.9" class="st24" width="24.2" height="3.4"/>
+	<path d="M142.5,448h1.3l0.2-1.7h-1.7L142.5,448z"/>
+	<path class="st24" d="M142.5,448h1.3l0.2-1.7h-1.7L142.5,448z"/>
+	<path d="M164.2,448h1.3l0.2-1.7H164L164.2,448z"/>
+	<path class="st24" d="M164.2,448h1.3l0.2-1.7H164L164.2,448z"/>
+	<rect x="139.4" y="448.3" class="st2" width="29.3" height="9.5"/>
+	<text transform="matrix(1 0 0 1 139.3532 455.1299)" class="st5 st44">RDU 2B</text>
+	<path class="st21" d="M180.4,397.3h0.4v-3.4h1.3V372h-26.7v21.9h1.3v3.4h0.4l0.2,1.7h1.3l0.2-1.7h20l0.2,1.7h1.3L180.4,397.3z"/>
+	<path class="st22" d="M180.4,397.3h0.4v-3.4h1.3V372h-26.7v21.9h1.3v3.4h0.4l0.2,1.7h1.3l0.2-1.7h20l0.2,1.7h1.3L180.4,397.3z"/>
+	
+		<radialGradient id="SVGID_33_" cx="-6.7039" cy="816.0195" r="1" gradientTransform="matrix(-25.9009 0 0 25.9009 -6.2573 -20710.1367)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<rect x="140.7" y="403.6" class="st45" width="26.7" height="21.9"/>
+	<rect x="140.7" y="403.6" class="st24" width="26.7" height="21.9"/>
+	
+		<radialGradient id="SVGID_34_" cx="-8.4504" cy="821.8458" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 187.2323 4730.9058)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st46" d="M143.2,389.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H143.2z"/>
+	<path class="st24" d="M143.2,389.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H143.2z"/>
+	
+		<radialGradient id="SVGID_35_" cx="-3.7789" cy="806.3353" r="1" gradientTransform="matrix(-2.3812 0 0 2.3812 147.1118 -1503.7598)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<circle class="st47" cx="156.1" cy="416.2" r="1.7"/>
+	
+		<radialGradient id="SVGID_36_" cx="-3.7789" cy="806.3353" r="1" gradientTransform="matrix(-2.3812 0 0 2.3812 155.4593 -1498.7086)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<circle class="st48" cx="164.5" cy="421.3" r="1.7"/>
+	
+		<radialGradient id="SVGID_37_" cx="-8.4504" cy="821.8458" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 191.406 4730.9058)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st49" d="M147.3,389.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H147.3z"/>
+	<path class="st24" d="M147.3,389.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H147.3z"/>
+	
+		<radialGradient id="SVGID_38_" cx="-8.4504" cy="821.8458" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 195.5798 4730.9058)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st50" d="M151.5,389.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H151.5z"/>
+	<path class="st24" d="M151.5,389.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H151.5z"/>
+	
+		<radialGradient id="SVGID_39_" cx="-8.4504" cy="821.8458" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 199.7535 4730.9058)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st51" d="M155.7,389.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H155.7z"/>
+	<path class="st24" d="M155.7,389.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H155.7z"/>
+	
+		<radialGradient id="SVGID_40_" cx="-8.4504" cy="821.8458" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 203.9272 4730.9058)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st52" d="M159.9,389.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H159.9z"/>
+	<path class="st24" d="M159.9,389.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H159.9z"/>
+	
+		<radialGradient id="SVGID_41_" cx="-8.4504" cy="821.8458" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 208.101 4730.9058)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st53" d="M164,389.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H164z"/>
+	<path class="st24" d="M164,389.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H164z"/>
+	
+		<radialGradient id="SVGID_42_" cx="-2.5785" cy="802.3609" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 159.9846 -975.5997)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st54" cx="164.5" cy="416.2" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_43_" cx="-2.5785" cy="802.3609" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 151.6371 -970.5485)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st55" cx="156.1" cy="421.3" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_44_" cx="-2.5785" cy="802.3609" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 155.8108 -970.5485)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st56" cx="160.3" cy="421.3" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_45_" cx="-2.5785" cy="802.3609" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 155.8108 -975.5997)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st57" cx="160.3" cy="416.2" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_46_" cx="-2.5785" cy="802.3609" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 147.4634 -975.5997)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st58" cx="151.9" cy="416.2" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_47_" cx="-2.5785" cy="802.3609" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 147.4634 -970.5485)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st59" cx="151.9" cy="421.3" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_48_" cx="-2.5785" cy="802.3609" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 143.2896 -970.5485)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st60" cx="147.8" cy="421.3" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_49_" cx="-2.5785" cy="802.3609" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 143.2896 -975.5997)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st61" cx="147.8" cy="416.2" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_50_" cx="-2.5785" cy="802.3609" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 139.1159 -975.5997)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st62" cx="143.6" cy="416.2" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_51_" cx="-2.5785" cy="802.3609" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 139.1159 -970.5485)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st63" cx="143.6" cy="421.3" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_52_" cx="-6.5816" cy="815.6146" r="1" gradientTransform="matrix(-18.3306 0 0 18.3306 45.483 -14547.0469)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<rect x="141.9" y="400.3" class="st64" width="24.2" height="3.4"/>
+	<rect x="141.9" y="400.3" class="st24" width="24.2" height="3.4"/>
+	<path d="M142.5,397.9h1.3l0.2-1.7h-1.7L142.5,397.9z"/>
+	<path class="st24" d="M142.5,397.9h1.3l0.2-1.7h-1.7L142.5,397.9z"/>
+	<path d="M164.2,397.9h1.3l0.2-1.7H164L164.2,397.9z"/>
+	<path class="st24" d="M164.2,397.9h1.3l0.2-1.7H164L164.2,397.9z"/>
+	<text transform="matrix(1 0 0 1 139.8565 394.7603)" class="st5 st44">RDU 2A</text>
+	<path class="st21" d="M165.1,350.3h0.4v-3.4h1.3V325h-26.7v21.9h1.3v3.4h0.4l0.2,1.7h1.3l0.2-1.7h20l0.2,1.7h1.3L165.1,350.3z"/>
+	<path class="st22" d="M180.4,350.1h0.4v-3.4h1.3v-21.9h-26.7v21.9h1.3v3.4h0.4l0.2,1.7h1.3l0.2-1.7h20l0.2,1.7h1.3L180.4,350.1z"/>
+	
+		<radialGradient id="SVGID_53_" cx="-7.3038" cy="817.9913" r="1" gradientTransform="matrix(25.9009 0 0 -25.9009 329.6435 21510.9199)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<rect x="140.5" y="324.2" class="st65" width="26.7" height="21.9"/>
+	<rect x="140.1" y="324.9" class="st24" width="26.7" height="21.9"/>
+	
+		<radialGradient id="SVGID_54_" cx="-8.5644" cy="821.696" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 187.2323 4683.7612)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st66" d="M142.6,342.7v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H142.6z"/>
+	<path class="st24" d="M143,341.9v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H143z"/>
+	
+		<radialGradient id="SVGID_55_" cx="-10.305" cy="827.7826" r="1" gradientTransform="matrix(2.3812 0 0 -2.3812 176.2743 2304.5425)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<circle class="st67" cx="151.7" cy="333.5" r="1.7"/>
+	
+		<radialGradient id="SVGID_56_" cx="-10.305" cy="827.7826" r="1" gradientTransform="matrix(2.3812 0 0 -2.3812 167.9268 2299.4912)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<circle class="st68" cx="143.4" cy="328.4" r="1.7"/>
+	
+		<radialGradient id="SVGID_57_" cx="-8.5644" cy="821.696" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 191.406 4683.7612)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st69" d="M146.7,342.7v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H146.7z"/>
+	<path class="st24" d="M147.1,341.9v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H147.1z"/>
+	
+		<radialGradient id="SVGID_58_" cx="-8.5644" cy="821.696" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 195.5798 4683.7612)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st70" d="M150.9,342.7v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H150.9z"/>
+	<path class="st24" d="M151.3,341.9v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H151.3z"/>
+	
+		<radialGradient id="SVGID_59_" cx="-8.5644" cy="821.696" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 199.7535 4683.7612)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st71" d="M155.1,342.7v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H155.1z"/>
+	<path class="st24" d="M155.5,341.9v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H155.5z"/>
+	
+		<radialGradient id="SVGID_60_" cx="-8.4882" cy="821.8552" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 203.9272 4683.7612)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st72" d="M159.7,341.9v2.5h0.8v-2.5h0.6v-4.2H159v4.2H159.7z"/>
+	<path class="st24" d="M159.3,342.7v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H159.3z"/>
+	
+		<radialGradient id="SVGID_61_" cx="-8.4882" cy="821.8552" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 208.101 4683.7612)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st73" d="M163.8,341.9v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H163.8z"/>
+	<path class="st24" d="M163.4,342.7v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H163.4z"/>
+	
+		<radialGradient id="SVGID_62_" cx="-11.5367" cy="831.8009" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 163.4016 1776.3823)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st74" cx="143.4" cy="333.5" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_63_" cx="-11.5367" cy="831.8009" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 171.7491 1771.3312)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st75" cx="151.7" cy="328.4" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_64_" cx="-11.5367" cy="831.8009" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 167.5753 1771.3312)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st76" cx="147.6" cy="328.4" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_65_" cx="-11.5367" cy="831.8009" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 167.5753 1776.3823)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st77" cx="147.6" cy="333.5" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_66_" cx="-11.5367" cy="831.8009" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 175.9228 1776.3823)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st78" cx="155.9" cy="333.5" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_67_" cx="-11.5367" cy="831.8009" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 175.9228 1771.3312)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st79" cx="155.9" cy="328.4" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_68_" cx="-11.5367" cy="831.8009" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 180.0965 1771.3312)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st80" cx="160.1" cy="328.4" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_69_" cx="-11.5367" cy="831.8009" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 180.0965 1776.3823)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st81" cx="160.1" cy="333.5" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_70_" cx="-11.5367" cy="831.8009" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 184.2702 1776.3823)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st82" cx="164.3" cy="333.5" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_71_" cx="-11.5367" cy="831.8009" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 184.2702 1771.3312)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st83" cx="164.3" cy="328.4" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_72_" cx="-7.4184" cy="818.4006" r="1" gradientTransform="matrix(18.3306 0 0 -18.3306 277.9031 15347.8301)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<rect x="141.9" y="346.1" class="st84" width="24.2" height="3.4"/>
+	<rect x="141.7" y="346.1" class="st24" width="24.2" height="3.4"/>
+	<path d="M142.3,351.1h1.3l0.2-1.7h-1.7L142.3,351.1z"/>
+	<path class="st24" d="M142.3,351.1h1.3l0.2-1.7h-1.7L142.3,351.1z"/>
+	<path d="M164,351.1h1.3l0.2-1.7h-1.7L164,351.1z"/>
+	<path class="st24" d="M164,351.1h1.3l0.2-1.7h-1.7L164,351.1z"/>
+	<rect x="138" y="351.4" class="st2" width="31.6" height="9.5"/>
+	<text transform="matrix(1 0 0 1 138.0421 358.3149)" class="st5 st44">RDU 1 B</text>
+	<path class="st21" d="M180.4,296.3h0.4v-3.4h1.3V271h-26.7v21.9h1.3v3.4h0.4l0.2,1.7h1.3l0.2-1.7h20l0.2,1.7h1.3L180.4,296.3z"/>
+	<path class="st22" d="M180.4,296.3h0.4v-3.4h1.3V271h-26.7v21.9h1.3v3.4h0.4l0.2,1.7h1.3l0.2-1.7h20l0.2,1.7h1.3L180.4,296.3z"/>
+	
+		<radialGradient id="SVGID_73_" cx="-6.6962" cy="816.0087" r="1" gradientTransform="matrix(-25.9009 0 0 25.9009 -6.2573 -20811.1602)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<rect x="140.5" y="302.3" class="st85" width="26.7" height="21.9"/>
+	<rect x="140.1" y="303.2" class="st24" width="26.7" height="21.9"/>
+	
+		<radialGradient id="SVGID_74_" cx="-8.4882" cy="821.8552" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 187.2323 4629.8818)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st86" d="M143,288v2.5h0.8V288h0.6v-4.2h-2.1v4.2H143z"/>
+	<path class="st24" d="M147.1,288v2.5h0.8V288h0.6v-4.2h-2.1v4.2H147.1z"/>
+	
+		<radialGradient id="SVGID_75_" cx="-3.695" cy="806.2174" r="1" gradientTransform="matrix(-2.3812 0 0 2.3812 147.1118 -1604.7841)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<circle class="st87" cx="155.9" cy="314.9" r="1.7"/>
+	
+		<radialGradient id="SVGID_76_" cx="-3.695" cy="806.2174" r="1" gradientTransform="matrix(-2.3812 0 0 2.3812 155.4593 -1599.7328)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<circle class="st88" cx="164.3" cy="320" r="1.7"/>
+	
+		<radialGradient id="SVGID_77_" cx="-8.4882" cy="821.8552" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 191.406 4629.8818)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st89" d="M147.1,288v2.5h0.8V288h0.6v-4.2h-2.1v4.2H147.1z"/>
+	<path class="st24" d="M159.7,288v2.5h0.8V288h0.6v-4.2H159v4.2H159.7z"/>
+	
+		<radialGradient id="SVGID_78_" cx="-8.4882" cy="821.8552" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 195.5798 4629.8818)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st90" d="M151.3,288v2.5h0.8V288h0.6v-4.2h-2.1v4.2H151.3z"/>
+	<path class="st24" d="M151.3,288v2.5h0.8V288h0.6v-4.2h-2.1v4.2H151.3z"/>
+	
+		<radialGradient id="SVGID_79_" cx="-8.4882" cy="821.8552" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 199.7535 4629.8818)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st91" d="M155.5,288v2.5h0.8V288h0.6v-4.2h-2.1v4.2H155.5z"/>
+	<path class="st24" d="M155.5,288v2.5h0.8V288h0.6v-4.2h-2.1v4.2H155.5z"/>
+	
+		<radialGradient id="SVGID_80_" cx="-8.4882" cy="821.8552" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 203.9272 4629.8818)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st92" d="M159.7,288v2.5h0.8V288h0.6v-4.2H159v4.2H159.7z"/>
+	<path class="st24" d="M143,288v2.5h0.8V288h0.6v-4.2h-2.1v4.2H143z"/>
+	
+		<radialGradient id="SVGID_81_" cx="-8.4855" cy="821.8552" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 208.101 4629.8818)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st93" d="M163.9,288v2.5h0.8V288h0.6v-4.2h-2.1v4.2H163.9z"/>
+	<path class="st24" d="M163.8,288v2.5h0.8V288h0.6v-4.2h-2.1v4.2H163.8z"/>
+	
+		<radialGradient id="SVGID_82_" cx="-2.4633" cy="802.1991" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 159.9846 -1076.6239)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st94" cx="164.3" cy="314.9" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_83_" cx="-2.4633" cy="802.1991" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 151.6371 -1071.5728)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st95" cx="155.9" cy="320" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_84_" cx="-2.4633" cy="802.1991" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 155.8108 -1071.5728)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st96" cx="160.1" cy="320" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_85_" cx="-2.4633" cy="802.1991" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 155.8108 -1076.6239)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st97" cx="160.1" cy="314.9" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_86_" cx="-2.4633" cy="802.1991" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 147.4634 -1076.6239)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st98" cx="151.7" cy="314.9" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_87_" cx="-2.4633" cy="802.1991" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 147.4634 -1071.5728)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st99" cx="151.7" cy="320" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_88_" cx="-2.4633" cy="802.1991" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 143.2896 -1071.5728)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st100" cx="147.6" cy="320" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_89_" cx="-2.4633" cy="802.1991" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 143.2896 -1076.6239)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st101" cx="147.6" cy="314.9" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_90_" cx="-2.4633" cy="802.1991" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 139.1159 -1076.6239)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st102" cx="143.4" cy="314.9" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_91_" cx="-2.4633" cy="802.1991" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 139.1159 -1071.5728)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st103" cx="143.4" cy="320" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_92_" cx="-6.5707" cy="815.5994" r="1" gradientTransform="matrix(-18.3306 0 0 18.3306 45.483 -14648.0713)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<rect x="141.7" y="298.9" class="st104" width="24.2" height="3.4"/>
+	<rect x="141.3" y="299.8" class="st24" width="24.2" height="3.4"/>
+	<path d="M142.8,298.1h1.3l0.2-1.7h-1.7L142.8,298.1z"/>
+	<path class="st24" d="M142.8,298.1h1.3l0.2-1.7h-1.7L142.8,298.1z"/>
+	<path d="M163.6,298.8h1.3l0.2-1.7h-1.7L163.6,298.8z"/>
+	<path class="st24" d="M163.6,298.1h1.3l0.2-1.7h-1.7L163.6,298.1z"/>
+	<text transform="matrix(1 0 0 1 138.9645 296.5343)" class="st5 st44">RDU 1A</text>
+	<path class="st21" d="M180.4,644.2h0.4v-3.4h1.3V619h-26.7v21.9h1.3v3.4h0.4l0.2,1.7h1.3l0.2-1.7h20l0.2,1.7h1.3L180.4,644.2z"/>
+	<path class="st22" d="M180.4,644.2h0.4v-3.4h1.3V619h-26.7v21.9h1.3v3.4h0.4l0.2,1.7h1.3l0.2-1.7h20l0.2,1.7h1.3L180.4,644.2z"/>
+	
+		<radialGradient id="SVGID_93_" cx="-7.2748" cy="817.9805" r="1" gradientTransform="matrix(25.9009 0 0 -25.9009 329.6435 21805.0117)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<rect x="141.2" y="618.6" class="st105" width="26.7" height="21.9"/>
+	<rect x="141.2" y="618.6" class="st24" width="26.7" height="21.9"/>
+	
+		<radialGradient id="SVGID_94_" cx="-8.3459" cy="821.8021" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 187.2323 4977.854)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st106" d="M143.7,636.3v2.5h0.8v-2.5h0.6V632h-2.1v4.2H143.7z"/>
+	<path class="st24" d="M143.7,636.3v2.5h0.8v-2.5h0.6V632h-2.1v4.2H143.7z"/>
+	
+		<radialGradient id="SVGID_95_" cx="-9.989" cy="827.6647" r="1" gradientTransform="matrix(2.3812 0 0 -2.3812 176.2743 2598.635)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<circle class="st107" cx="152.5" cy="627.8" r="1.7"/>
+	
+		<radialGradient id="SVGID_96_" cx="-9.989" cy="827.6647" r="1" gradientTransform="matrix(2.3812 0 0 -2.3812 167.9268 2593.584)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<circle class="st108" cx="144.1" cy="622.8" r="1.7"/>
+	
+		<radialGradient id="SVGID_97_" cx="-8.3459" cy="821.8021" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 191.406 4977.854)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st109" d="M147.9,636.3v2.5h0.8v-2.5h0.6V632h-2.1v4.2H147.9z"/>
+	<path class="st24" d="M147.9,636.3v2.5h0.8v-2.5h0.6V632h-2.1v4.2H147.9z"/>
+	
+		<radialGradient id="SVGID_98_" cx="-8.3459" cy="821.8021" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 195.5798 4977.854)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st110" d="M152.1,636.3v2.5h0.8v-2.5h0.6V632h-2.1v4.2H152.1z"/>
+	<path class="st24" d="M152.1,636.3v2.5h0.8v-2.5h0.6V632h-2.1v4.2H152.1z"/>
+	
+		<radialGradient id="SVGID_99_" cx="-8.3459" cy="821.8021" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 199.7535 4977.854)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st111" d="M156.2,636.3v2.5h0.8v-2.5h0.6V632h-2.1v4.2H156.2z"/>
+	<path class="st24" d="M156.2,636.3v2.5h0.8v-2.5h0.6V632h-2.1v4.2H156.2z"/>
+	
+		<radialGradient id="SVGID_100_" cx="-8.3459" cy="821.8021" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 203.9272 4977.854)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st112" d="M160.4,636.3v2.5h0.8v-2.5h0.6V632h-2.1v4.2H160.4z"/>
+	<path class="st24" d="M160.4,636.3v2.5h0.8v-2.5h0.6V632h-2.1v4.2H160.4z"/>
+	
+		<radialGradient id="SVGID_101_" cx="-8.3459" cy="821.8021" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 208.101 4977.854)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st113" d="M164.6,636.3v2.5h0.8v-2.5h0.6V632H164v4.2H164.6z"/>
+	<path class="st24" d="M164.6,636.3v2.5h0.8v-2.5h0.6V632H164v4.2H164.6z"/>
+	
+		<radialGradient id="SVGID_102_" cx="-11.1029" cy="831.6391" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 163.4016 2070.4751)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st114" cx="144.1" cy="627.8" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_103_" cx="-11.1029" cy="831.6391" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 171.7491 2065.4238)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st115" cx="152.5" cy="622.8" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_104_" cx="-11.1029" cy="831.6391" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 167.5753 2065.4238)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st116" cx="148.3" cy="622.8" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_105_" cx="-11.1029" cy="831.6391" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 167.5753 2070.4751)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st117" cx="148.3" cy="627.8" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_106_" cx="-11.1029" cy="831.6391" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 175.9228 2070.4751)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st118" cx="156.7" cy="627.8" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_107_" cx="-11.1029" cy="831.6391" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 175.9228 2065.4238)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st119" cx="156.7" cy="622.8" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_108_" cx="-11.1029" cy="831.6391" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 180.0965 2065.4238)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st120" cx="160.8" cy="622.8" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_109_" cx="-11.1029" cy="831.6391" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 180.0965 2070.4751)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st121" cx="160.8" cy="627.8" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_110_" cx="-11.1029" cy="831.6391" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 184.2702 2070.4751)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st122" cx="165" cy="627.8" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_111_" cx="-11.1029" cy="831.6391" r="1" gradientTransform="matrix(1.7347 0 0 -1.7347 184.2702 2065.4238)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st123" cx="165" cy="622.8" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_112_" cx="-7.3883" cy="818.3854" r="1" gradientTransform="matrix(18.3306 0 0 -18.3306 277.9031 15641.9219)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<rect x="142.5" y="640.5" class="st124" width="24.2" height="3.4"/>
+	<rect x="142.5" y="640.5" class="st24" width="24.2" height="3.4"/>
+	<path d="M143.1,645.5h1.3l0.2-1.7h-1.7L143.1,645.5z"/>
+	<path class="st24" d="M143.1,645.5h1.3l0.2-1.7h-1.7L143.1,645.5z"/>
+	<path d="M164.8,645.5h1.3l0.2-1.7h-1.7L164.8,645.5z"/>
+	<path class="st24" d="M164.8,645.5h1.3l0.2-1.7h-1.7L164.8,645.5z"/>
+	<rect x="139.9" y="645.8" class="st2" width="29.3" height="9.5"/>
+	<text transform="matrix(1 0 0 1 139.906 652.6882)" class="st5 st44">RDU 3B</text>
+	<path class="st21" d="M180.4,594.8h0.4v-3.4h1.3v-21.9h-26.7v21.9h1.3v3.4h0.4l0.2,1.7h1.3l0.2-1.7h20l0.2,1.7h1.3L180.4,594.8z"/>
+	<path class="st22" d="M180.4,594.8h0.4v-3.4h1.3v-21.9h-26.7v21.9h1.3v3.4h0.4l0.2,1.7h1.3l0.2-1.7h20l0.2,1.7h1.3L180.4,594.8z"/>
+	
+		<radialGradient id="SVGID_113_" cx="-6.7252" cy="816.0195" r="1" gradientTransform="matrix(-25.9009 0 0 25.9009 -6.2573 -20512.5781)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<rect x="141.2" y="601.2" class="st125" width="26.7" height="21.9"/>
+	<rect x="141.2" y="601.2" class="st24" width="26.7" height="21.9"/>
+	
+		<radialGradient id="SVGID_114_" cx="-8.1486" cy="822.3264" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 187.2323 4928.4644)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st126" d="M144.8,584.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H144.8z"/>
+	<path class="st24" d="M144.8,584.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H144.8z"/>
+	
+		<radialGradient id="SVGID_115_" cx="-4.011" cy="806.3353" r="1" gradientTransform="matrix(-2.3812 0 0 2.3812 147.1118 -1306.2014)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<circle class="st127" cx="156.7" cy="613.8" r="1.7"/>
+	
+		<radialGradient id="SVGID_116_" cx="-4.011" cy="806.3353" r="1" gradientTransform="matrix(-2.3812 0 0 2.3812 155.4593 -1301.1501)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<circle class="st128" cx="165" cy="618.9" r="1.7"/>
+	
+		<radialGradient id="SVGID_117_" cx="-8.1486" cy="822.3264" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 191.406 4928.4644)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st129" d="M148.9,584.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H148.9z"/>
+	<path class="st24" d="M148.9,584.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H148.9z"/>
+	
+		<radialGradient id="SVGID_118_" cx="-8.1486" cy="822.3264" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 195.5798 4928.4644)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st130" d="M153.1,584.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H153.1z"/>
+	<path class="st24" d="M153.1,584.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H153.1z"/>
+	
+		<radialGradient id="SVGID_119_" cx="-8.1486" cy="822.3264" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 199.7535 4928.4644)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st131" d="M157.3,584.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H157.3z"/>
+	<path class="st24" d="M157.3,584.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H157.3z"/>
+	
+		<radialGradient id="SVGID_120_" cx="-8.1486" cy="822.3264" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 203.9272 4928.4644)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st132" d="M161.5,584.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H161.5z"/>
+	<path class="st24" d="M161.5,584.1v2.5h0.8v-2.5h0.6v-4.2h-2.1v4.2H161.5z"/>
+	
+		<radialGradient id="SVGID_121_" cx="-8.1486" cy="822.3264" r="1" gradientTransform="matrix(5.2881 0 0 -5.2881 208.101 4928.4644)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<path class="st133" d="M165.6,584.1v2.5h0.8v-2.5h0.6v-4.2H165v4.2H165.6z"/>
+	<path class="st24" d="M165.6,584.1v2.5h0.8v-2.5h0.6v-4.2H165v4.2H165.6z"/>
+	
+		<radialGradient id="SVGID_122_" cx="-2.8971" cy="802.3609" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 159.9846 -778.0413)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st134" cx="165" cy="613.8" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_123_" cx="-2.8971" cy="802.3609" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 151.6371 -772.9901)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st135" cx="156.7" cy="618.9" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_124_" cx="-2.8971" cy="802.3609" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 155.8108 -772.9901)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st136" cx="160.8" cy="618.9" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_125_" cx="-2.8971" cy="802.3609" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 155.8108 -778.0413)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st137" cx="160.8" cy="613.8" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_126_" cx="-2.8971" cy="802.3609" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 147.4634 -778.0413)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st138" cx="152.5" cy="613.8" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_127_" cx="-2.8971" cy="802.3609" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 147.4634 -772.9901)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st139" cx="152.5" cy="618.9" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_128_" cx="-2.8971" cy="802.3609" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 143.2896 -772.9901)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st140" cx="148.3" cy="618.9" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_129_" cx="-2.8971" cy="802.3609" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 143.2896 -778.0413)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#800000"/>
+	</radialGradient>
+	<ellipse class="st141" cx="148.3" cy="613.8" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_130_" cx="-2.8971" cy="802.3609" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 139.1159 -778.0413)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st142" cx="144.1" cy="613.8" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_131_" cx="-2.8971" cy="802.3609" r="1" gradientTransform="matrix(-1.7347 0 0 1.7347 139.1159 -772.9901)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st143" cx="144.1" cy="618.9" rx="0.4" ry="1.7"/>
+	
+		<radialGradient id="SVGID_132_" cx="-6.6117" cy="815.6146" r="1" gradientTransform="matrix(-18.3306 0 0 18.3306 45.483 -14349.4883)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<rect x="142.5" y="597.8" class="st144" width="24.2" height="3.4"/>
+	<rect x="142.5" y="597.8" class="st24" width="24.2" height="3.4"/>
+	<path d="M144.8,596.5h1.3l0.2-1.7h-1.7L144.8,596.5z"/>
+	<path class="st24" d="M144.8,596.5h1.3l0.2-1.7h-1.7L144.8,596.5z"/>
+	<path d="M166.5,596.5h1.3l0.2-1.7h-1.7L166.5,596.5z"/>
+	<path class="st24" d="M166.5,596.5h1.3l0.2-1.7h-1.7L166.5,596.5z"/>
+	<text transform="matrix(1 0 0 1 140.9494 590.9227)" class="st5 st44">RDU 3A</text>
+	<path class="st21" d="M189.3,771h1.7v-29.5h-47.6V771h1.7l0.4,2h3.4l0.4-2h35.7l0.4,2h3.4L189.3,771z"/>
+	<path class="st22" d="M189.3,771h1.7v-29.5h-47.6V771h1.7l0.4,2h3.4l0.4-2h35.7l0.4,2h3.4L189.3,771z"/>
+	
+		<radialGradient id="SVGID_133_" cx="-6.8332" cy="817.5958" r="1" gradientTransform="matrix(41.9598 0 0 -41.9598 430.166 35047.6914)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<rect x="143.4" y="741.5" class="st145" width="47.6" height="29.5"/>
+	<rect x="143.4" y="741.5" class="st24" width="47.6" height="29.5"/>
+	<rect x="144.4" y="742.5" class="st146" width="45.7" height="27.6"/>
+	
+		<radialGradient id="SVGID_134_" cx="-4.3336" cy="826.5228" r="1" gradientTransform="matrix(2.6253 0 0 -2.6253 199.0653 2925.6338)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st147" cx="187.7" cy="755.8" rx="0.9" ry="2.5"/>
+	<path d="M145.6,773h3.4l0.4-2h-4.2L145.6,773z"/>
+	<path class="st24" d="M145.6,773h3.4l0.4-2h-4.2L145.6,773z"/>
+	<path d="M185.5,773h3.4l0.4-2h-4.2L185.5,773z"/>
+	<path class="st24" d="M185.5,773h3.4l0.4-2h-4.2L185.5,773z"/>
+	<rect x="149.5" y="773.3" class="st2" width="13.3" height="7.1"/>
+	<text transform="matrix(1 0 0 1 149.5034 778.4824)" class="st5 st11">MDP</text>
+	<text transform="matrix(1 0 0 1 162.8366 778.4812)" class="st5 st6"> </text>
+	<rect x="162.7" y="773.3" class="st2" width="9.7" height="7.1"/>
+	<text transform="matrix(1 0 0 1 162.728 778.4824)" class="st148"><tspan x="0" y="0" class="st5 st11 st149">U</tspan><tspan x="6" y="0" class="st5 st11">T</tspan></text>
+	<text transform="matrix(1 0 0 1 170.7262 778.4812)" class="st5 st6"> </text>
+	<text transform="matrix(1 0 0 1 171.9479 778.4812)" class="st5 st11">AMA</text>
+	<path class="st21" d="M226.9,771h1.2v-29.5h-33.8V771h1.2l0.3,2h2.4l0.3-2h25.3l0.3,2h2.4L226.9,771z"/>
+	<path class="st22" d="M226.9,771h1.2v-29.5h-33.8V771h1.2l0.3,2h2.4l0.3-2h25.3l0.3,2h2.4L226.9,771z"/>
+	
+		<radialGradient id="SVGID_135_" cx="-6.7917" cy="817.7438" r="1" gradientTransform="matrix(33.6112 0 0 -33.6112 422.6132 28226.8848)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<rect x="194.3" y="741.5" class="st150" width="33.8" height="29.5"/>
+	<rect x="194.3" y="741.5" class="st24" width="33.8" height="29.5"/>
+	<rect x="195" y="742.2" class="st146" width="32.4" height="28.1"/>
+	
+		<radialGradient id="SVGID_136_" cx="-4.2468" cy="826.8329" r="1" gradientTransform="matrix(2.5425 0 0 -2.5425 236.5432 2857.991)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st151" cx="225.7" cy="755.8" rx="0.7" ry="2.5"/>
+	<path d="M195.8,773h2.4l0.3-2h-3L195.8,773z"/>
+	<path class="st24" d="M195.8,773h2.4l0.3-2h-3L195.8,773z"/>
+	<path d="M224.2,773h2.4l0.3-2h-3L224.2,773z"/>
+	<path class="st24" d="M224.2,773h2.4l0.3-2h-3L224.2,773z"/>
+	<rect x="199.8" y="773.3" class="st2" width="13.3" height="7.1"/>
+	<text transform="matrix(1 0 0 1 199.7705 778.4824)" class="st5 st11">MDP</text>
+	<text transform="matrix(1 0 0 1 213.1033 778.4812)" class="st5 st6"> </text>
+	<text transform="matrix(1 0 0 1 214.3309 778.4812)" class="st5 st11">AC</text>
+	<rect id="path_7" x="257.6" y="751.4" class="st2" width="23.8" height="22.4"/>
+	<g>
+		<defs>
+			<rect id="SVGID_137_" x="257.6" y="751.4" width="23.8" height="22.4"/>
+		</defs>
+		<clipPath id="SVGID_138_">
+			<use xlink:href="#SVGID_137_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st152">
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 265.8763 761.4258)" class="st10 st11">Fm </text>
+	<text transform="matrix(1 0 0 1 264.076 768.4258)" class="st10 st11">200</text>
+	<rect id="path_8" x="309.9" y="751.4" class="st2" width="23.8" height="22.4"/>
+	<g>
+		<defs>
+			<rect id="SVGID_139_" x="309.9" y="751.4" width="23.8" height="22.4"/>
+		</defs>
+		<clipPath id="SVGID_140_">
+			<use xlink:href="#SVGID_139_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st153">
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 318.1904 761.4258)" class="st10 st11">Fm </text>
+	<text transform="matrix(1 0 0 1 316.3901 768.4258)" class="st10 st11">200</text>
+	<path class="st21" d="M142.5,771h0.9v-29.5h-26.2V771h0.9l0.2,2h1.9l0.2-2h19.6l0.2,2h1.9L142.5,771z"/>
+	<path class="st22" d="M142.5,771h0.9v-29.5h-26.2V771h0.9l0.2,2h1.9l0.2-2h19.6l0.2,2h1.9L142.5,771z"/>
+	
+		<radialGradient id="SVGID_141_" cx="-6.7631" cy="817.846" r="1" gradientTransform="matrix(29.5504 0 0 -29.5504 317.1432 24909.209)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<rect x="117.3" y="741.5" class="st154" width="26.2" height="29.5"/>
+	<rect x="117.3" y="741.5" class="st24" width="26.2" height="29.5"/>
+	<rect x="117.8" y="742.1" class="st146" width="25.1" height="28.4"/>
+	
+		<radialGradient id="SVGID_142_" cx="-4.209" cy="826.968" r="1" gradientTransform="matrix(2.508 0 0 -2.508 152.1792 2829.853)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st155" cx="141.6" cy="755.8" rx="0.5" ry="2.5"/>
+	<path d="M118.5,773h1.9l0.2-2h-2.3L118.5,773z"/>
+	<path class="st24" d="M118.5,773h1.9l0.2-2h-2.3L118.5,773z"/>
+	<path d="M140.4,773h1.9l0.2-2h-2.3L140.4,773z"/>
+	<path class="st24" d="M140.4,773h1.9l0.2-2h-2.3L140.4,773z"/>
+	<rect x="116.4" y="773.8" class="st2" width="17" height="7.1"/>
+	<text transform="matrix(1 0 0 1 116.4164 778.983)" class="st148"><tspan x="0" y="0" class="st5 st11">Pane</tspan><tspan x="15.7" y="0" class="st5 st11">l </tspan></text>
+	<text transform="matrix(1 0 0 1 133.0981 778.983)" class="st5 st11">A</text>
+	<text transform="matrix(1 0 0 1 137.1 778.983)" class="st5 st6"> </text>
+	<rect x="136.7" y="773.8" class="st2" width="7.7" height="7.1"/>
+	<text transform="matrix(1 0 0 1 136.6547 778.983)" class="st5 st11">TS</text>
+	<text transform="matrix(1 0 0 1 144.3217 778.983)" class="st5 st6"> </text>
+	<rect x="115.2" y="780" class="st2" width="30.3" height="7.1"/>
+	<text transform="matrix(1 0 0 1 115.1962 785.1793)" class="st5 st11">Emergency</text>
+	<path class="st21" d="M383.5,765.3h1.3V738h-35.7v27.4h1.3l0.3,1.8h2.5l0.3-1.8h26.8l0.3,1.8h2.5L383.5,765.3z"/>
+	<path class="st22" d="M383.5,765.3h1.3V738h-35.7v27.4h1.3l0.3,1.8h2.5l0.3-1.8h26.8l0.3,1.8h2.5L383.5,765.3z"/>
+	
+		<radialGradient id="SVGID_143_" cx="-6.7924" cy="817.7415" r="1" gradientTransform="matrix(33.7155 0 0 -33.7155 578.1456 28308.5352)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<rect x="349.1" y="738" class="st156" width="35.7" height="27.4"/>
+	<rect x="349.1" y="738" class="st24" width="35.7" height="27.4"/>
+	<rect x="349.9" y="738.7" class="st146" width="34.2" height="25.9"/>
+	
+		<radialGradient id="SVGID_144_" cx="-4.0639" cy="827.4861" r="1" gradientTransform="matrix(2.3841 0 0 -2.3841 392.0064 2724.0029)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st157" cx="382.3" cy="751.2" rx="0.7" ry="2.3"/>
+	<path d="M350.7,767.1h2.5l0.3-1.8h-3.2L350.7,767.1z"/>
+	<path class="st24" d="M350.7,767.1h2.5l0.3-1.8h-3.2L350.7,767.1z"/>
+	<path d="M380.7,767.1h2.5l0.3-1.8h-3.2L380.7,767.1z"/>
+	<path class="st24" d="M380.7,767.1h2.5l0.3-1.8h-3.2L380.7,767.1z"/>
+	<rect x="351.9" y="767.5" class="st2" width="30.2" height="7.1"/>
+	<text transform="matrix(1 0 0 1 351.8864 772.6443)" class="st5 st11">DCPDB (+)</text>
+	<path class="st21" d="M419.2,765.3h1.3V738h-35.7v27.4h1.3l0.3,1.8h2.5l0.3-1.8H416l0.3,1.8h2.5L419.2,765.3z"/>
+	<path class="st22" d="M419.2,765.3h1.3V738h-35.7v27.4h1.3l0.3,1.8h2.5l0.3-1.8H416l0.3,1.8h2.5L419.2,765.3z"/>
+	
+		<radialGradient id="SVGID_145_" cx="-6.7924" cy="817.7415" r="1" gradientTransform="matrix(33.7155 0 0 -33.7155 613.8143 28308.5352)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<rect x="384.8" y="738" class="st158" width="35.7" height="27.4"/>
+	<rect x="384.8" y="738" class="st24" width="35.7" height="27.4"/>
+	<rect x="385.5" y="738.7" class="st146" width="34.2" height="25.9"/>
+	
+		<radialGradient id="SVGID_146_" cx="-4.0639" cy="827.4861" r="1" gradientTransform="matrix(2.3841 0 0 -2.3841 427.6751 2724.0029)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st159" cx="418" cy="751.2" rx="0.7" ry="2.3"/>
+	<path d="M386.4,767.1h2.5l0.3-1.8h-3.2L386.4,767.1z"/>
+	<path class="st24" d="M386.4,767.1h2.5l0.3-1.8h-3.2L386.4,767.1z"/>
+	<path d="M416.3,767.1h2.5l0.3-1.8H416L416.3,767.1z"/>
+	<path class="st24" d="M416.3,767.1h2.5l0.3-1.8H416L416.3,767.1z"/>
+	<rect x="388.3" y="767.5" class="st2" width="28.7" height="7.1"/>
+	<text transform="matrix(1 0 0 1 388.308 772.6443)" class="st5 st11">DCPDB (-)</text>
+	<path class="st21" d="M102.6,713.5h0.9v-11.1H78.8v11.1h0.9l0.2,0.7h1.8l0.2-0.7h18.5l0.2,0.7h1.8L102.6,713.5z"/>
+	<path class="st22" d="M102.6,713.5h0.9v-11.1H78.8v11.1h0.9l0.2,0.7h1.8l0.2-0.7h18.5l0.2,0.7h1.8L102.6,713.5z"/>
+	
+		<radialGradient id="SVGID_147_" cx="-5.7697" cy="816.6555" r="1" gradientTransform="matrix(1.244265e-15 -20.3204 -20.3204 -1.244265e-15 16674.002 609.3157)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<rect x="79.2" y="701.9" class="st160" width="11.1" height="24.7"/>
+	<rect x="79.2" y="701.9" class="st24" width="11.1" height="24.7"/>
+	<rect x="79.3" y="702.8" class="st146" width="23.7" height="10.2"/>
+	
+		<radialGradient id="SVGID_148_" cx="16.8862" cy="810.3119" r="1" gradientTransform="matrix(6.408755e-17 -1.0466 -1.0466 -6.408755e-17 932.7272 721.2597)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<ellipse class="st161" cx="84.6" cy="703.6" rx="0.9" ry="0.5"/>
+	<path d="M79.9,714.2h1.8l0.2-0.7h-2.2L79.9,714.2z"/>
+	<path class="st24" d="M79.9,714.2h1.8l0.2-0.7h-2.2L79.9,714.2z"/>
+	<path d="M100.6,714.2h1.8l0.2-0.7h-2.2L100.6,714.2z"/>
+	<path class="st24" d="M100.6,714.2h1.8l0.2-0.7h-2.2L100.6,714.2z"/>
+	<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 94.9199 693.9432)" class="st5 st11">ACPDB 4000 </text>
+	<text transform="matrix(6.123234e-17 1 -1 6.123234e-17 94.9199 730.9656)" class="st5 st11">A</text>
+	<rect x="441.7" y="320.6" class="st18" width="14.6" height="11.9"/>
+	<rect x="441.7" y="320.6" class="st19" width="14.6" height="11.9"/>
+	<rect x="428.8" y="322.6" class="st2" width="4.7" height="10.2"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 432.2345 332.8008)" class="st5 st20">Panel</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 432.2345 322.5703)" class="st5 st6"> </text>
+	<rect x="433.9" y="320.7" class="st2" width="4.7" height="14"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 437.3654 334.6865)" class="st5 st20">DCPDB</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 437.3654 320.6846)" class="st5 st6"> </text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 442.4962 330.8516)" class="st5 st20">(-+)</text>
+	<rect x="441.7" y="343.6" class="st18" width="14.6" height="11.9"/>
+	<rect x="441.7" y="343.6" class="st19" width="14.6" height="11.9"/>
+	<rect x="428.8" y="343.9" class="st2" width="4.7" height="11.3"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 432.2345 355.25)" class="st148"><tspan x="0" y="0" class="st5 st20">Pane</tspan><tspan x="10.5" y="0" class="st5 st20">l </tspan></text>
+	<rect x="433.9" y="343.1" class="st2" width="4.7" height="14"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 437.3654 357.1367)" class="st5 st20">DCPDB</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 437.3654 343.1338)" class="st5 st6"> </text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 442.4962 353.3008)" class="st5 st20">(-+)</text>
+	<rect x="433.7" y="381.3" class="st18" width="30.5" height="11.9"/>
+	<rect x="433.7" y="381.3" class="st19" width="30.5" height="11.9"/>
+	<rect x="422" y="385.8" class="st2" width="4.7" height="8.7"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 425.4643 394.5)" class="st5 st20">COS</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 425.4643 385.832)" class="st5 st6"> </text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 430.5951 397.0566)" class="st5 st20">ACPDB </text>
+	<rect x="432.3" y="384.9" class="st2" width="4.7" height="9.3"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 435.7256 394.2773)" class="st148"><tspan x="0" y="0" class="st5 st20">UP</tspan><tspan x="6.7" y="0" class="st5 st20">S </tspan></text>
+	<rect x="437.4" y="385.8" class="st2" width="4.7" height="8.7"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 440.8568 394.5)" class="st5 st20">OCS</text>
+	<rect x="441.7" y="522.7" class="st18" width="14.6" height="11.9"/>
+	<rect x="441.7" y="522.7" class="st19" width="14.6" height="11.9"/>
+	<rect x="433.3" y="524.2" class="st2" width="4.7" height="8.7"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 436.7061 532.8848)" class="st5 st20">COS</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 436.7061 524.2168)" class="st5 st6"> </text>
+	<rect x="438.4" y="524.9" class="st2" width="4.7" height="8"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 441.8369 532.8848)" class="st5 st20">PU-I</text>
+	<rect x="441.7" y="542.9" class="st18" width="14.6" height="11.9"/>
+	<rect x="441.7" y="542.9" class="st19" width="14.6" height="11.9"/>
+	<rect x="427.7" y="543.3" class="st2" width="4.7" height="8.7"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 431.1461 551.9424)" class="st5 st20">COS</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 431.1461 543.2744)" class="st5 st6"> </text>
+	<rect x="432.7" y="550.2" class="st2" width="4.9" height="2.6"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 436.2769 550.126)" class="st5 st6"> </text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 436.2769 550.4229)" class="st5 st20">AC-I</text>
+	<rect id="path_9" x="246.7" y="156.5" class="st2" width="24.4" height="22.4"/>
+	<g>
+		<defs>
+			<rect id="SVGID_149_" x="246.7" y="156.5" width="24.4" height="22.4"/>
+		</defs>
+		<clipPath id="SVGID_150_">
+			<use xlink:href="#SVGID_149_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st162">
+		</g>
+	</g>
+	<rect id="path_a" x="271.2" y="156.5" class="st2" width="24.4" height="22.4"/>
+	<g>
+		<defs>
+			<rect id="SVGID_151_" x="271.2" y="156.5" width="24.4" height="22.4"/>
+		</defs>
+		<clipPath id="SVGID_152_">
+			<use xlink:href="#SVGID_151_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st163">
+		</g>
+	</g>
+	<rect id="path_b" x="295" y="156.5" class="st2" width="24.4" height="22.4"/>
+	<g>
+		<defs>
+			<rect id="SVGID_153_" x="295" y="156.5" width="24.4" height="22.4"/>
+		</defs>
+		<clipPath id="SVGID_154_">
+			<use xlink:href="#SVGID_153_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st164">
+		</g>
+	</g>
+	<rect id="path_c" x="245.7" y="180.3" class="st2" width="24.4" height="22.4"/>
+	<g>
+		<defs>
+			<rect id="SVGID_155_" x="245.7" y="180.3" width="24.4" height="22.4"/>
+		</defs>
+		<clipPath id="SVGID_156_">
+			<use xlink:href="#SVGID_155_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st165">
+		</g>
+	</g>
+	<rect id="path_d" x="271.2" y="180.3" class="st2" width="24.4" height="22.4"/>
+	<g>
+		<defs>
+			<rect id="SVGID_157_" x="271.2" y="180.3" width="24.4" height="22.4"/>
+		</defs>
+		<clipPath id="SVGID_158_">
+			<use xlink:href="#SVGID_157_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st166">
+		</g>
+	</g>
+	<rect id="path_e" x="295" y="180.3" class="st2" width="24.4" height="22.4"/>
+	<g>
+		<defs>
+			<rect id="SVGID_159_" x="295" y="180.3" width="24.4" height="22.4"/>
+		</defs>
+		<clipPath id="SVGID_160_">
+			<use xlink:href="#SVGID_159_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st167">
+		</g>
+	</g>
+	<rect id="path_f" x="347.8" y="181.2" class="st2" width="24.4" height="22.4"/>
+	<g>
+		<defs>
+			<rect id="SVGID_161_" x="347.8" y="181.2" width="24.4" height="22.4"/>
+		</defs>
+		<clipPath id="SVGID_162_">
+			<use xlink:href="#SVGID_161_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st168">
+		</g>
+	</g>
+	<rect id="path_10" x="371.2" y="181.2" class="st2" width="24.4" height="22.4"/>
+	<g>
+		<defs>
+			<rect id="SVGID_163_" x="371.2" y="181.2" width="24.4" height="22.4"/>
+		</defs>
+		<clipPath id="SVGID_164_">
+			<use xlink:href="#SVGID_163_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st169">
+		</g>
+	</g>
+	<rect x="359.8" y="152.5" class="st21" width="33.3" height="33.7"/>
+	<rect x="359.8" y="152.5" class="st22" width="33.3" height="33.7"/>
+	
+		<radialGradient id="SVGID_165_" cx="-6.8029" cy="817.7039" r="1" gradientTransform="matrix(35.5144 0 0 -35.5144 601.4384 29192.7324)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#C0C0C0"/>
+	</radialGradient>
+	<rect x="359.8" y="152.5" class="st170" width="33.3" height="33.7"/>
+	<rect x="359.8" y="152.5" class="st24" width="33.3" height="33.7"/>
+	<path class="st146" d="M363.2,177.7h26.6 M363.2,180.1h26.6 M363.2,182.4h26.6"/>
+	
+		<linearGradient id="SVGID_166_" gradientUnits="userSpaceOnUse" x1="-21.8479" y1="821.1574" x2="-20.8479" y2="821.1574" gradientTransform="matrix(1.030993e-16 1.6837 1.6837 -1.030993e-16 -1006.1326 193.0859)">
+		<stop  offset="0" style="stop-color:#000000"/>
+		<stop  offset="0.5" style="stop-color:#C0C0C0"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path class="st171" d="M364.8,158h9.1c1.5-0.9,3.5-0.9,5,0h9.1c0.5,0,0.8-0.4,0.8-0.8s-0.4-0.8-0.8-0.8h-23.3
+		c-0.5,0-0.8,0.4-0.8,0.8S364.4,158,364.8,158z"/>
+	<path class="st24" d="M364.8,158h9.1c1.5-0.9,3.5-0.9,5,0h9.1c0.5,0,0.8-0.4,0.8-0.8s-0.4-0.8-0.8-0.8h-23.3
+		c-0.5,0-0.8,0.4-0.8,0.8S364.4,158,364.8,158z"/>
+	
+		<radialGradient id="SVGID_167_" cx="-2.4235" cy="833.3446" r="1" gradientTransform="matrix(1.5296 0 0 -1.5296 380.1899 1443.9498)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#339966"/>
+	</radialGradient>
+	<circle class="st172" cx="376.5" cy="169.3" r="1.1"/>
+	<rect x="364" y="160.9" class="st173" width="25" height="1.9"/>
+	<rect x="364" y="160.9" class="st24" width="25" height="1.9"/>
+	
+		<linearGradient id="SVGID_168_" gradientUnits="userSpaceOnUse" x1="-81.2391" y1="837.7869" x2="-80.239" y2="837.7869" gradientTransform="matrix(2.061999e-17 0.3368 0.3368 -2.061999e-17 94.3583 189.0075)">
+		<stop  offset="0" style="stop-color:#000000"/>
+		<stop  offset="0.5" style="stop-color:#C0C0C0"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<path class="st174" d="M365.8,162h21.3c0.1,0,0.2-0.1,0.2-0.2s-0.1-0.2-0.2-0.2h-21.3c-0.1,0-0.2,0.1-0.2,0.2
+		C365.7,161.9,365.7,162,365.8,162z"/>
+	<path class="st24" d="M365.8,162h21.3c0.1,0,0.2-0.1,0.2-0.2s-0.1-0.2-0.2-0.2h-21.3c-0.1,0-0.2,0.1-0.2,0.2
+		C365.7,161.9,365.7,162,365.8,162z"/>
+	<rect x="361.1" y="186.5" class="st2" width="30.7" height="7.1"/>
+	<text transform="matrix(1 0 0 1 361.1417 191.6429)" class="st5 st11">Colector L2</text>
+	<rect id="path_11" x="194.8" y="473" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_169_" x="194.8" y="473" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_170_">
+			<use xlink:href="#SVGID_169_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st175">
+		</g>
+	</g>
+	<rect id="path_12" x="296.1" y="473" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_171_" x="296.1" y="473" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_172_">
+			<use xlink:href="#SVGID_171_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st176">
+		</g>
+	</g>
+	<rect id="path_13" x="322.3" y="473" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_173_" x="322.3" y="473" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_174_">
+			<use xlink:href="#SVGID_173_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st177">
+		</g>
+	</g>
+	<rect id="path_14" x="373.6" y="473" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_175_" x="373.6" y="473" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_176_">
+			<use xlink:href="#SVGID_175_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st178">
+		</g>
+	</g>
+	<rect id="path_15" x="347.5" y="473" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_177_" x="347.5" y="473" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_178_">
+			<use xlink:href="#SVGID_177_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st179">
+		</g>
+	</g>
+	<rect id="path_16" x="271.4" y="473" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_179_" x="271.4" y="473" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_180_">
+			<use xlink:href="#SVGID_179_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st180">
+		</g>
+	</g>
+	<rect id="path_17" x="246.2" y="473" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_181_" x="246.2" y="473" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_182_">
+			<use xlink:href="#SVGID_181_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st181">
+		</g>
+	</g>
+	<rect id="path_18" x="220.5" y="473" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_183_" x="220.5" y="473" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_184_">
+			<use xlink:href="#SVGID_183_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st182">
+		</g>
+	</g>
+	<rect id="path_19" x="194.8" y="447.9" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_185_" x="194.8" y="447.9" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_186_">
+			<use xlink:href="#SVGID_185_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st183">
+		</g>
+	</g>
+	<rect id="path_1a" x="296.1" y="447.9" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_187_" x="296.1" y="447.9" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_188_">
+			<use xlink:href="#SVGID_187_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st184">
+		</g>
+	</g>
+	<rect id="path_1b" x="322.3" y="447.9" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_189_" x="322.3" y="447.9" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_190_">
+			<use xlink:href="#SVGID_189_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st185">
+		</g>
+	</g>
+	<rect id="path_1c" x="373.6" y="447.9" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_191_" x="373.6" y="447.9" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_192_">
+			<use xlink:href="#SVGID_191_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st186">
+		</g>
+	</g>
+	<rect id="path_1d" x="347.5" y="447.9" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_193_" x="347.5" y="447.9" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_194_">
+			<use xlink:href="#SVGID_193_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st187">
+		</g>
+	</g>
+	<rect id="path_1e" x="271.4" y="447.9" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_195_" x="271.4" y="447.9" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_196_">
+			<use xlink:href="#SVGID_195_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st188">
+		</g>
+	</g>
+	<rect id="path_1f" x="246.2" y="447.9" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_197_" x="246.2" y="447.9" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_198_">
+			<use xlink:href="#SVGID_197_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st189">
+		</g>
+	</g>
+	<rect id="path_20" x="220.5" y="447.9" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_199_" x="220.5" y="447.9" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_200_">
+			<use xlink:href="#SVGID_199_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st190">
+		</g>
+	</g>
+	<rect id="path_21" x="372.2" y="252.1" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_201_" x="372.2" y="252.1" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_202_">
+			<use xlink:href="#SVGID_201_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st191">
+		</g>
+	</g>
+	<rect x="340.8" y="302.4" class="st22" width="28.5" height="38.2"/>
+	<rect x="204.4" y="302.4" class="st22" width="39.5" height="48.5"/>
+	<rect id="path_22" x="194.8" y="155.6" class="st2" width="24.4" height="22.4"/>
+	<g>
+		<defs>
+			<rect id="SVGID_203_" x="194.8" y="155.6" width="24.4" height="22.4"/>
+		</defs>
+		<clipPath id="SVGID_204_">
+			<use xlink:href="#SVGID_203_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st192">
+		</g>
+	</g>
+	<rect id="path_23" x="220.2" y="155.6" class="st2" width="24.4" height="22.4"/>
+	<g>
+		<defs>
+			<rect id="SVGID_205_" x="220.2" y="155.6" width="24.4" height="22.4"/>
+		</defs>
+		<clipPath id="SVGID_206_">
+			<use xlink:href="#SVGID_205_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st193">
+		</g>
+	</g>
+	<rect id="path_24" x="321.6" y="180.5" class="st2" width="24.4" height="22.4"/>
+	<g>
+		<defs>
+			<rect id="SVGID_207_" x="321.6" y="180.5" width="24.4" height="22.4"/>
+		</defs>
+		<clipPath id="SVGID_208_">
+			<use xlink:href="#SVGID_207_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st194">
+		</g>
+	</g>
+	<rect id="path_25" x="194.9" y="180" class="st2" width="24.4" height="22.4"/>
+	<g>
+		<defs>
+			<rect id="SVGID_209_" x="194.9" y="180" width="24.4" height="22.4"/>
+		</defs>
+		<clipPath id="SVGID_210_">
+			<use xlink:href="#SVGID_209_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st195">
+		</g>
+	</g>
+	<rect id="path_26" x="220.4" y="180" class="st2" width="24.4" height="22.4"/>
+	<g>
+		<defs>
+			<rect id="SVGID_211_" x="220.4" y="180" width="24.4" height="22.4"/>
+		</defs>
+		<clipPath id="SVGID_212_">
+			<use xlink:href="#SVGID_211_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st196">
+		</g>
+	</g>
+	<rect id="path_27" x="143.8" y="155.6" class="st2" width="24.4" height="22.4"/>
+	<g>
+		<defs>
+			<rect id="SVGID_213_" x="143.8" y="155.6" width="24.4" height="22.4"/>
+		</defs>
+		<clipPath id="SVGID_214_">
+			<use xlink:href="#SVGID_213_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st197">
+		</g>
+	</g>
+	<rect id="path_28" x="169.3" y="155.6" class="st2" width="24.4" height="22.4"/>
+	<g>
+		<defs>
+			<rect id="SVGID_215_" x="169.3" y="155.6" width="24.4" height="22.4"/>
+		</defs>
+		<clipPath id="SVGID_216_">
+			<use xlink:href="#SVGID_215_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st198">
+		</g>
+	</g>
+	<rect id="path_29" x="294.8" y="521" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_217_" x="294.8" y="521" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_218_">
+			<use xlink:href="#SVGID_217_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st199">
+		</g>
+	</g>
+	<rect id="path_2a" x="321" y="521" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_219_" x="321" y="521" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_220_">
+			<use xlink:href="#SVGID_219_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st200">
+		</g>
+	</g>
+	<rect id="path_2b" x="372.3" y="521" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_221_" x="372.3" y="521" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_222_">
+			<use xlink:href="#SVGID_221_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st201">
+		</g>
+	</g>
+	<rect id="path_2c" x="346.2" y="521" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_223_" x="346.2" y="521" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_224_">
+			<use xlink:href="#SVGID_223_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st202">
+		</g>
+	</g>
+	<rect id="path_2d" x="270.1" y="521" class="st2" width="25.7" height="25.1"/>
+	<g>
+		<defs>
+			<rect id="SVGID_225_" x="270.1" y="521" width="25.7" height="25.1"/>
+		</defs>
+		<clipPath id="SVGID_226_">
+			<use xlink:href="#SVGID_225_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st203">
+		</g>
+	</g>
+	<rect x="69.6" y="332.4" class="st204" width="9.8" height="74.7"/>
+	<rect x="69.6" y="332.4" class="st1" width="9.8" height="74.7"/>
+	<path class="st204" d="M69.7,407.1h9.5v-1.4h-1.4h-1.4h-6.7V407.1 M69.7,332.4h9.5v1.4h-1.4h-1.4h-6.7V332.4"/>
+	<path class="st205" d="M69.7,407.1h9.5v-1.4h-1.4 M76.4,405.7h-6.7v1.4 M69.7,332.4h9.5v1.4h-1.4 M76.4,333.9h-6.7v-1.4"/>
+	<path class="st204" d="M77.8,405.7v-0.6h-1.4v0.6H77.8 M77.8,333.9v0.6h-1.4v-0.6H77.8"/>
+	<path class="st205" d="M77.8,405.7v-0.6h-1.4v0.6 M77.8,333.9v0.6h-1.4v-0.6"/>
+	<path class="st205" d="M69.7,407.1h9.5 M69.7,332.4h9.5"/>
+	<path class="st205" d="M79.2,369.8L79.2,369.8z"/>
+	<path class="st205" d="M79.2,369.8L79.2,369.8z"/>
+	<rect x="77.8" y="333.9" class="st204" width="1.4" height="35.9"/>
+	<rect x="77.8" y="333.9" class="st205" width="1.4" height="35.9"/>
+	<rect x="77.8" y="369.8" class="st204" width="1.4" height="35.9"/>
+	<rect x="77.8" y="369.8" class="st205" width="1.4" height="35.9"/>
+	<rect x="394.1" y="142.9" class="st204" width="40.9" height="9.5"/>
+	<rect x="394.1" y="142.9" class="st1" width="40.9" height="9.5"/>
+	<path class="st0" d="M394.1,143v9.2h1.4v-1.4v-1.4V143H394.1 M435,143v9.2h-1.4v-1.4v-1.4V143H435"/>
+	<path class="st205" d="M394.1,143v9.2h1.4v-1.4 M395.5,149.4V143h-1.4 M435,143v9.2h-1.4v-1.4 M433.6,149.4V143h1.4"/>
+	<path class="st0" d="M395.5,150.8h0.6v-1.4h-0.6V150.8 M433.6,150.8H433v-1.4h0.6V150.8"/>
+	<path class="st205" d="M395.5,150.8h0.6v-1.4h-0.6 M433.6,150.8H433v-1.4h0.6"/>
+	<path class="st205" d="M394.1,143v9.2 M435,143v9.2"/>
+	<path class="st205" d="M433.6,152.2L433.6,152.2z"/>
+	<rect x="395.5" y="150.8" class="st0" width="38" height="1.4"/>
+	<rect x="395.5" y="150.8" class="st205" width="38" height="1.4"/>
+	<rect x="454.8" y="152.8" class="st204" width="9.8" height="55.6"/>
+	<rect x="454.8" y="152.8" class="st1" width="9.8" height="55.6"/>
+	<path class="st0" d="M464.5,208.4H455V207h1.4h1.4h6.7V208.4 M464.5,152.8H455v1.4h1.4h1.4h6.7V152.8"/>
+	<path class="st205" d="M464.5,208.4H455V207h1.4 M457.8,207h6.7v1.4 M464.5,152.8H455v1.4h1.4 M457.8,154.3h6.7v-1.4"/>
+	<path class="st0" d="M456.4,207v-0.6h1.4v0.6H456.4 M456.4,154.3v0.6h1.4v-0.6H456.4"/>
+	<path class="st205" d="M456.4,207v-0.6h1.4v0.6 M456.4,154.3v0.6h1.4v-0.6"/>
+	<path class="st205" d="M464.5,208.4H455 M464.5,152.8H455"/>
+	<path class="st205" d="M455,180.6L455,180.6z"/>
+	<path class="st205" d="M455,180.6L455,180.6z"/>
+	<rect x="455" y="154.3" class="st0" width="1.4" height="26.4"/>
+	<rect x="455" y="154.3" class="st205" width="1.4" height="26.4"/>
+	<rect x="455" y="180.6" class="st0" width="1.4" height="26.4"/>
+	<rect x="455" y="180.6" class="st205" width="1.4" height="26.4"/>
+	<rect x="454.8" y="711.8" class="st204" width="9.8" height="55.6"/>
+	<rect x="454.8" y="711.8" class="st1" width="9.8" height="55.6"/>
+	<path class="st0" d="M464.5,767.4H455V766h1.4h1.4h6.7V767.4 M464.5,711.8H455v1.4h1.4h1.4h6.7V711.8"/>
+	<path class="st205" d="M464.5,767.4H455V766h1.4 M457.8,766h6.7v1.4 M464.5,711.8H455v1.4h1.4 M457.8,713.3h6.7v-1.4"/>
+	<path class="st0" d="M456.4,766v-0.6h1.4v0.6H456.4 M456.4,713.3v0.6h1.4v-0.6H456.4"/>
+	<path class="st205" d="M456.4,766v-0.6h1.4v0.6 M456.4,713.3v0.6h1.4v-0.6"/>
+	<path class="st205" d="M464.5,767.4H455 M464.5,711.8H455"/>
+	<path class="st205" d="M455,739.6L455,739.6z"/>
+	<path class="st205" d="M455,739.6L455,739.6z"/>
+	<rect x="455" y="713.3" class="st0" width="1.4" height="26.4"/>
+	<rect x="455" y="713.3" class="st205" width="1.4" height="26.4"/>
+	<rect x="455" y="739.6" class="st0" width="1.4" height="26.4"/>
+	<rect x="455" y="739.6" class="st205" width="1.4" height="26.4"/>
+	<rect id="path_2e" x="143.8" y="180.3" class="st2" width="24.4" height="22.4"/>
+	<g>
+		<defs>
+			<rect id="SVGID_227_" x="143.8" y="180.3" width="24.4" height="22.4"/>
+		</defs>
+		<clipPath id="SVGID_228_">
+			<use xlink:href="#SVGID_227_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st206">
+		</g>
+	</g>
+	<rect id="path_2f" x="169.3" y="180.3" class="st2" width="24.4" height="22.4"/>
+	<g>
+		<defs>
+			<rect id="SVGID_229_" x="169.3" y="180.3" width="24.4" height="22.4"/>
+		</defs>
+		<clipPath id="SVGID_230_">
+			<use xlink:href="#SVGID_229_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st207">
+		</g>
+	</g>
+	<rect id="path_30" x="194.5" y="644.3" class="st2" width="25.7" height="24.7"/>
+	<g>
+		<defs>
+			<rect id="SVGID_231_" x="194.5" y="644.3" width="25.7" height="24.7"/>
+		</defs>
+		<clipPath id="SVGID_232_">
+			<use xlink:href="#SVGID_231_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st208">
+		</g>
+	</g>
+	<rect id="path_31" x="321.7" y="156.4" class="st2" width="24.4" height="22.4"/>
+	<g>
+		<defs>
+			<rect id="SVGID_233_" x="321.7" y="156.4" width="24.4" height="22.4"/>
+		</defs>
+		<clipPath id="SVGID_234_">
+			<use xlink:href="#SVGID_233_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st209">
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 257.5875 804.2521)" class="st10 st210">H</text>
+	<text transform="matrix(1 0 0 1 233.3325 804.9835)" class="st10 st210">G</text>
+	<text transform="matrix(1 0 0 1 208.491 804.252)" class="st10 st210">F</text>
+	<rect x="181.7" y="796.3" class="st2" width="6.7" height="11.8"/>
+	<text transform="matrix(1 0 0 1 181.7261 804.9037)" class="st5 st210">E</text>
+	<rect x="129.5" y="793.9" class="st2" width="7.2" height="11.8"/>
+	<text transform="matrix(1 0 0 1 129.4874 802.4665)" class="st5 st210">C</text>
+	<text transform="matrix(1 0 0 1 83.7028 803.4898)" class="st5 st210">A</text>
+	<rect x="106.9" y="793.9" class="st2" width="6.7" height="11.8"/>
+	<text transform="matrix(1 0 0 1 106.899 802.4678)" class="st5 st210">B</text>
+	<rect x="154.2" y="795.1" class="st2" width="7.2" height="11.8"/>
+	<text transform="matrix(1 0 0 1 154.2307 803.6718)" class="st5 st210">D</text>
+	<rect x="282.8" y="798.6" class="st2" width="2.8" height="11.8"/>
+	<text transform="matrix(1 0 0 1 282.8308 807.1525)" class="st5 st210">I</text>
+	<rect x="311" y="797.6" class="st2" width="5" height="11.8"/>
+	<text transform="matrix(1 0 0 1 310.9576 806.1573)" class="st5 st210">J</text>
+	<rect x="336.5" y="797.6" class="st2" width="6.7" height="11.8"/>
+	<text transform="matrix(1 0 0 1 336.4725 806.1573)" class="st5 st210">K</text>
+	<rect x="364.1" y="798.6" class="st2" width="5.6" height="11.8"/>
+	<text transform="matrix(1 0 0 1 364.0982 807.1521)" class="st5 st210">L</text>
+	<rect x="386.2" y="797.6" class="st2" width="8.3" height="11.8"/>
+	<text transform="matrix(1 0 0 1 386.2097 806.1573)" class="st5 st210">M</text>
+	<rect x="409.6" y="798.3" class="st2" width="7.2" height="11.8"/>
+	<text transform="matrix(1 0 0 1 409.5946 806.8573)" class="st5 st210">N</text>
+	<text transform="matrix(1 0 0 1 436.0979 807.6703)" class="st5 st210">O</text>
+	<rect x="457.1" y="799.5" class="st2" width="6.7" height="11.8"/>
+	<text transform="matrix(1 0 0 1 457.1469 808.0891)" class="st5 st210">P</text>
+	<text transform="matrix(1 0 0 1 485.8669 806.9202)" class="st5 st210">Q</text>
+	<rect x="513.2" y="798.6" class="st2" width="7.2" height="11.8"/>
+	<text transform="matrix(1 0 0 1 513.2127 807.1521)" class="st5 st210">R</text>
+	<rect x="547.9" y="252.3" class="st2" width="21" height="8"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 556.7285 260.2734)" class="st10 st210">8</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 570.4318 234.5254)" class="st10 st210">7</text>
+	<rect x="547.9" y="202.7" class="st2" width="21" height="8"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 556.7285 210.666)" class="st10 st210">6</text>
+	<rect x="550.9" y="180.8" class="st2" width="17.7" height="5.6"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 559.502 186.3779)" class="st5 st210">5</text>
+	<rect x="549.1" y="131" class="st2" width="17.7" height="5.6"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 557.6992 136.5566)" class="st5 st210">3</text>
+	<rect x="552.5" y="108.4" class="st2" width="11.8" height="5.6"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 561.1201 113.9209)" class="st5 st210">2</text>
+	<rect x="552.2" y="84.3" class="st2" width="11.8" height="5.6"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 560.7919 89.8271)" class="st5 st210">1</text>
+	<rect x="554" y="156.5" class="st2" width="11.8" height="5.6"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 562.5374 162.0898)" class="st5 st210">4</text>
+	<rect x="555.2" y="278.8" class="st2" width="11.8" height="5.6"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 284.3467)" class="st5 st210">9</text>
+	<rect x="555.2" y="297.3" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 308.4199)" class="st5 st210">10</text>
+	<rect x="555.2" y="322.4" class="st2" width="11.8" height="5.6"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 327.916)" class="st5 st210">1</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 322.3545)" class="st5 st6"> </text>
+	<rect x="555.2" y="317.5" class="st2" width="11.8" height="5.6"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 323.0967)" class="st5 st210">1</text>
+	<rect x="555.2" y="343.7" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 354.8457)" class="st5 st210">12</text>
+	<rect x="555.2" y="370.7" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 381.7744)" class="st5 st210">13</text>
+	<rect x="555.2" y="393.3" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 404.4512)" class="st5 st210">14</text>
+	<rect x="555.2" y="417.4" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 428.5254)" class="st5 st210">15</text>
+	<rect x="555.2" y="441.5" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 452.5986)" class="st5 st210">16</text>
+	<rect x="555.2" y="467.8" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 478.9482)" class="st5 st210">17</text>
+	<rect x="555.2" y="494.2" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 505.2979)" class="st5 st210">18</text>
+	<rect x="555.2" y="515.2" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 526.3418)" class="st5 st210">19</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 564.4318 555.9121)" class="st10 st6">20</text>
+	<rect x="555.2" y="568.9" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 580.0273)" class="st5 st210">21</text>
+	<rect x="555.2" y="593" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 604.1426)" class="st5 st210">22</text>
+	<rect x="555.2" y="617.1" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 628.2578)" class="st5 st210">23</text>
+	<rect x="555.2" y="641.2" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 652.373)" class="st5 st210">24</text>
+	<rect x="555.2" y="665.4" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 676.4883)" class="st5 st210">25</text>
+	<rect x="555.2" y="689.5" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 700.6035)" class="st5 st210">26</text>
+	<rect x="555.2" y="713.6" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 724.7188)" class="st5 st210">27</text>
+	<rect x="555.2" y="737.7" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 748.834)" class="st5 st210">28</text>
+	<rect x="555.2" y="763.3" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 563.7682 774.3945)" class="st5 st210">29</text>
+	<rect x="39.4" y="260.5" class="st2" width="21" height="8"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 48.1769 268.5449)" class="st10 st210">8</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 242.6475)" class="st10 st210">7</text>
+	<rect x="38" y="212.2" class="st2" width="21" height="8"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 46.7595 220.2314)" class="st10 st210">6</text>
+	<rect x="39.6" y="188.4" class="st2" width="17.7" height="5.6"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 48.1743 193.9727)" class="st5 st210">5</text>
+	<rect x="36.6" y="138.9" class="st2" width="17.7" height="5.6"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 45.2149 144.4131)" class="st5 st210">3</text>
+	<rect x="36.6" y="111.2" class="st2" width="11.8" height="5.6"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 45.2145 116.7559)" class="st5 st210">2</text>
+	<rect x="36.3" y="87.1" class="st2" width="11.8" height="5.6"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 44.8864 92.6611)" class="st5 st210">1</text>
+	<rect x="38" y="159.4" class="st2" width="11.8" height="5.6"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 46.6318 164.9238)" class="st5 st210">4</text>
+	<rect x="39.3" y="285.7" class="st2" width="11.8" height="5.6"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 291.2402)" class="st5 st210">9</text>
+	<rect x="39.3" y="308.4" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 319.4961)" class="st5 st210">10</text>
+	<rect x="39.3" y="336.8" class="st2" width="11.8" height="5.6"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 342.3994)" class="st5 st210">1</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 336.8379)" class="st5 st6"> </text>
+	<rect x="39.3" y="332" class="st2" width="11.8" height="5.6"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 337.5801)" class="st5 st210">1</text>
+	<rect x="39.3" y="357.2" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 368.3242)" class="st5 st210">12</text>
+	<rect x="39.3" y="383.3" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 394.4229)" class="st5 st210">13</text>
+	<rect x="39.3" y="406.6" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 417.7705)" class="st5 st210">14</text>
+	<rect x="39.3" y="430" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 441.1191)" class="st5 st210">15</text>
+	<rect x="39.3" y="454.9" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 465.9814)" class="st5 st210">16</text>
+	<rect x="39.3" y="477.5" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 488.6426)" class="st5 st210">17</text>
+	<rect x="39.3" y="503.4" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 514.5293)" class="st5 st210">18</text>
+	<rect x="39.3" y="526.6" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 537.7646)" class="st5 st210">19</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 48.5262 565.2422)" class="st10 st6">20</text>
+	<rect x="39.3" y="578.3" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 589.4551)" class="st5 st210">21</text>
+	<rect x="39.3" y="604.3" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 615.415)" class="st5 st210">22</text>
+	<rect x="39.3" y="628.7" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 639.7764)" class="st5 st210">23</text>
+	<rect x="39.3" y="653" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 664.1377)" class="st5 st210">24</text>
+	<rect x="39.3" y="677.1" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 688.2539)" class="st5 st210">25</text>
+	<rect x="39.3" y="701.2" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 712.3682)" class="st5 st210">26</text>
+	<rect x="39.3" y="725.4" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 736.4824)" class="st5 st210">27</text>
+	<rect x="39.3" y="749.5" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 47.8627 760.5977)" class="st5 st210">28</text>
+	<rect x="41.9" y="771.8" class="st2" width="11.8" height="11.1"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 50.5302 782.9453)" class="st5 st210">29</text>
+	<text transform="matrix(1 0 0 1 257.5875 61.8027)" class="st10 st210">H</text>
+	<text transform="matrix(1 0 0 1 232.0249 62.0508)" class="st10 st210">G</text>
+	<text transform="matrix(1 0 0 1 207.119 61.5515)" class="st10 st210">F</text>
+	<rect x="181.5" y="52.8" class="st2" width="6.7" height="11.8"/>
+	<text transform="matrix(1 0 0 1 181.5231 61.353)" class="st5 st210">E</text>
+	<rect x="129.5" y="52.8" class="st2" width="7.2" height="11.8"/>
+	<text transform="matrix(1 0 0 1 129.4874 61.3525)" class="st5 st210">C</text>
+	<text transform="matrix(1 0 0 1 82.0198 60.8198)" class="st5 st210">A</text>
+	<rect x="104.2" y="52.2" class="st2" width="6.7" height="11.8"/>
+	<text transform="matrix(1 0 0 1 104.212 60.8198)" class="st5 st210">B</text>
+	<rect x="154.6" y="52.6" class="st2" width="7.2" height="11.8"/>
+	<text transform="matrix(1 0 0 1 154.6481 61.2225)" class="st5 st210">D</text>
+	<rect x="283.4" y="55.6" class="st2" width="2.8" height="11.8"/>
+	<text transform="matrix(1 0 0 1 283.4095 64.2188)" class="st5 st210">I</text>
+	<rect x="305.9" y="56.1" class="st2" width="5" height="11.8"/>
+	<text transform="matrix(1 0 0 1 305.9153 64.7183)" class="st5 st210">J</text>
+	<rect x="330.6" y="56.1" class="st2" width="6.7" height="11.8"/>
+	<text transform="matrix(1 0 0 1 330.6091 64.7183)" class="st5 st210">K</text>
+	<rect x="356.5" y="55.6" class="st2" width="5.6" height="11.8"/>
+	<text transform="matrix(1 0 0 1 356.4621 64.2182)" class="st5 st210">L</text>
+	<rect x="383.1" y="56.1" class="st2" width="8.3" height="11.8"/>
+	<text transform="matrix(1 0 0 1 383.1375 64.7183)" class="st5 st210">M</text>
+	<rect x="410.9" y="56.1" class="st2" width="7.2" height="11.8"/>
+	<text transform="matrix(1 0 0 1 410.9184 64.7178)" class="st5 st210">N</text>
+	<text transform="matrix(1 0 0 1 431.564 64.0669)" class="st5 st210">O</text>
+	<rect x="461.1" y="55.6" class="st2" width="6.7" height="11.8"/>
+	<text transform="matrix(1 0 0 1 461.1304 64.2184)" class="st5 st210">P</text>
+	<text transform="matrix(1 0 0 1 485.8668 64.6)" class="st5 st210">Q</text>
+	<rect x="510.8" y="55.9" class="st2" width="7.2" height="11.8"/>
+	<text transform="matrix(1 0 0 1 510.7908 64.4697)" class="st5 st210">R</text>
+</g>
+<g id="map_rak">
+	<g id="rak_c4">
+		<rect x="117.3" y="154.3" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 123 170.5)" class="st212 st213 st6">C4</text>
+	</g>
+	<g id="rak_d4" class="box">
+		<rect x="143.3" y="154.3" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 149.5 170.5)" class="st212 st213 st6">D4</text>
+	</g>
+	<g id="rak_e4" class="box">
+		<rect x="169.3" y="154.3" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 176.2695 170.5)" class="st212 st213 st6">E4</text>
+	</g>
+	<g id="rak_g4" class="box">
+		<rect x="219.5" y="154.3" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 225.4286 170.5)" class="st212 st213 st6">G4</text>
+	</g>
+	<g id="rak_h4" class="box">
+		<rect x="245" y="154.3" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 250.9167 170.5)" class="st212 st213 st6">H4</text>
+	</g>
+	<g id="rak_i4" class="box">
+		<rect x="270.5" y="154.3" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 278.7918 170.5)" class="st212 st213 st6">I4</text>
+	</g>
+	<g id="rak_d6" class="box">
+		<rect x="143.3" y="203.4" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 149.0951 220.2323)" class="st212 st213 st6">D6</text>
+	</g>
+	<g id="rak_e6" class="box">
+		<rect x="169.3" y="203.4" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 175.9437 220.2322)" class="st212 st213 st6">E6</text>
+	</g>
+	<g id="rak_f6" class="box">
+		<rect x="195.6" y="203.4" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 202.5951 220.2324)" class="st212 st213 st6">F6</text>
+	</g>
+	<g id="rak_g6" class="box">
+		<rect x="221.4" y="203.4" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 226.4285 220.2321)" class="st212 st213 st6">G6</text>
+	</g>
+	<g id="rak_h6" class="box">
+		<rect x="246" y="203.4" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 251.9701 220.2324)" class="st212 st213 st6">H6</text>
+	</g>
+	<g id="rak_i6" class="box">
+		<rect x="271.9" y="203.4" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 280.5118 220.2319)" class="st212 st213 st6">I6</text>
+	</g>
+	<g id="rak_e10" class="box">
+		<rect x="169.1" y="301.3" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 172.5974 317.8113)" class="st212 st213 st6">E10</text>
+	</g>
+	<g id="rak_h10" class="box">
+		<rect x="244.7" y="301.3" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 247.4726 317.811)" class="st212 st213 st6">H10</text>
+	</g>
+	<g id="rak_i10" class="box">
+		<rect x="270.7" y="301.3" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 276.0161 317.811)" class="st212 st213 st6">I10</text>
+	</g>
+	<g id="rak_j10" class="box">
+		<rect x="296.5" y="301.3" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 301.6807 317.811)" class="st212 st213 st6">J10</text>
+	</g>
+	<g id="rak_k10" class="box">
+		<rect x="322.4" y="301.3" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 325.8474 317.811)" class="st212 st213 st6">K10</text>
+	</g>
+	<g id="rak_l10" class="box">
+		<rect x="348.2" y="301.3" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 352.0974 317.8108)" class="st212 st213 st6">L10</text>
+	</g>
+	<g id="rak_e16" class="box">
+		<rect x="168.6" y="448.1" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 171.9481 464.5613)" class="st212 st213 st6">E16</text>
+	</g>
+	<g id="rak_f16" class="box">
+		<rect x="194" y="448.1" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 197.9481 464.561)" class="st212 st213 st6">F16</text>
+	</g>
+	<g id="rak_g16" class="box">
+		<rect x="220.2" y="448.1" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 222.6981 464.561)" class="st212 st213 st6">G16</text>
+	</g>
+	<g id="rak_h16" class="box">
+		<rect x="246.1" y="448.1" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 248.9622 464.5611)" class="st212 st213 st6">H16</text>
+	</g>
+	<g id="rak_i16" class="box">
+		<rect x="271.3" y="448.1" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 276.016 464.5618)" class="st212 st213 st6">I16</text>
+	</g>
+	<g id="rak_j16" class="box">
+		<rect x="296.5" y="448.1" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 300.9481 464.561)" class="st212 st213 st6">J16</text>
+	</g>
+	<g id="rak_k16" class="box">
+		<rect x="322.2" y="448.1" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 324.6806 464.5618)" class="st212 st213 st6">K16</text>
+	</g>
+	<g id="rak_l16" class="box">
+		<rect x="348.2" y="448.1" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 352.0976 464.5615)" class="st212 st213 st6">L16</text>
+	</g>
+	<g id="rak_e18" class="box">
+		<rect x="168.6" y="497.2" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 171.948 513.6243)" class="st212 st213 st6">E18</text>
+	</g>
+	<g id="rak_f18" class="box">
+		<rect x="194.5" y="497.2" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 197.9483 513.6245)" class="st212 st213 st6">F18</text>
+	</g>
+	<g id="rak_h18" class="box">
+		<rect x="244.7" y="497.2" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 247.4726 513.6238)" class="st212 st213 st6">H18</text>
+	</g>
+	<g id="rak_i18" class="box">
+		<rect x="270.3" y="497.2" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 276.0159 513.6245)" class="st212 st213 st6">I18</text>
+	</g>
+	<g id="rak_j18" class="box">
+		<rect x="296.3" y="497.2" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 301.6811 513.6238)" class="st212 st213 st6">J18</text>
+	</g>
+	<g id="rak_k18" class="box">
+		<rect x="322.2" y="497.2" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 325.8471 513.6245)" class="st212 st213 st6">K18</text>
+	</g>
+	<g id="rak_l18" class="box">
+		<rect x="348.2" y="497.2" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 352.0972 513.6235)" class="st212 st213 st6">L18</text>
+	</g>
+	<g id="rak_e24" class="box">
+		<rect x="168.3" y="644.3" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 171.643 661.2916)" class="st212 st213 st6">E24</text>
+	</g>
+	<g id="rak_i24" class="box">
+		<rect x="270" y="644.3" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 275.1429 660.2913)" class="st212 st213 st6">I24</text>
+	</g>
+	<g id="rak_j24" class="box">
+		<rect x="295.5" y="644.3" class="st211" width="25.9" height="24.7"/>
+		<text transform="matrix(1 0 0 1 300.2679 660.2908)" class="st212 st213 st6">J24</text>
+	</g>
+</g>
+</svg>

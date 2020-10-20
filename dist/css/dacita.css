@@ -1,0 +1,375 @@
+.col-6-menu-left {
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding-left: 200px;
+}
+.col-6-menu-right {
+    flex: 0 0 50%;
+    max-width: 50%;
+    padding-right: 200px;
+}
+
+.overlay{
+    display: none;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background: rgba(255,255,255,0.8) url("/dgs/images/loading.gif") center no-repeat;
+}
+/* Turn off scrollbar when body element has the loading class */
+body.loading{
+    overflow: hidden;   
+}
+/* Make spinner image visible when body element has the loading class */
+body.loading .overlay{
+    display: block;
+}
+
+.card.tranparent {
+    background: rgba(255, 255, 255, 0.63);
+    margin: 30px 180px auto 180px;
+}
+
+.card.setting {
+    background: rgba(255, 255, 255, 0.63);
+    margin: 30px 450px auto 450px;
+}
+
+.card-body.menu {
+    background: rgb(154, 154, 154);
+    border-color: rgb(154, 154, 154);
+}
+
+.card-danger {
+    background: #fc4b6c;
+    border-color: #fc4b6c; 
+}
+
+.card-black-costume {
+    background: #6c757d;
+    border-color: #6c757d;
+}
+
+.panel {
+    margin:20px auto ;
+    text-align: center;
+}
+.panel .child {
+    width: 180px;
+    height: 210px;
+    padding: 5px;
+    position: relative;
+    margin: auto 15px;
+    float: left;
+    border:1px solid #dddddd;
+    border-radius:4px;
+    background: rgba(255,255,255,1);
+    transition: all .3s;
+    box-shadow: -2px 7px 14px #d0d0d0;
+}
+.panel .child:hover {
+    box-shadow: -2px 7px 14px #888888;
+}
+.panel .child img{
+    width: 130px;
+    height: 130px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.panel .child a {
+    font-weight: bold;
+    color:#111111;
+}
+
+.panel .child-setting {
+    width: 180px;
+    height: 190px;
+    padding: 5px;
+    position: relative;
+    margin: auto 30px;
+    float: left;
+    border:1px solid #6c757d;
+    border-radius:4px;
+    background: rgb(154, 154, 154);
+    transition: all .3s;
+    box-shadow: -2px 7px 14px #6c757d;
+}
+.panel .child-setting:hover {
+    box-shadow: -2px 7px 14px #515151;
+}
+.panel .child-setting img{
+    width: 130px;
+    height: 130px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.panel .child-setting a {
+    font-weight: bold;
+    color:#111111;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.menu-utama {
+    padding:3% 0 10% 0 ;  
+}
+
+.btn-back {
+    margin-left: 10px;
+}
+
+.text-black {
+    color: black;
+}
+
+.title-menu {
+    margin-bottom: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40pt;
+    color: rgb(218, 18, 18);
+    text-shadow: 1.5px 1.5px rgba(255, 0, 0, 0.721);
+}
+
+.minor-card-header{
+    background-color: lightblue !important;
+}
+
+.major-card-header{
+    background-color: lightsalmon !important;
+}
+
+.critical-card-header{
+    background-color: lightcoral !important;
+}
+
+.detail-card-header{
+    background-color: rgb(187, 187, 187) !important;
+}
+
+.minor-card-body{
+    background-color: lightblue !important;
+    opacity: 0.8;
+}
+
+.major-card-body{
+    background-color: lightsalmon !important;
+    opacity: 0.8;
+}
+
+.critical-card-body{
+    background-color: lightcoral !important;
+    opacity: 0.8;
+}
+
+.detail-card-header{
+    background-color: rgb(187, 187, 187) !important;
+    opacity: 0.8;
+}
+
+.infowindowimg{
+    border: solid 2px darkred !important;
+}
+
+.datacenter-pic{
+    text-align: center;
+    transition: transform .1s;
+}
+
+.datacenter-pic:hover {
+    transform: scale(1.1); 
+}
+
+.datacenter-detail-floors .card-body {
+    min-height: 0 !important;
+}
+
+.datacenter-detail-floors td:hover{
+    background-color: lightslategray;
+    color: whitesmoke;
+    cursor: pointer;
+}
+.totalSensor{
+    background-color: lightgray !important;
+    font-size: 8px;
+}
+
+.alarmNormal{
+    background-color: lightgreen !important;
+    font-size: 8px;
+}
+
+.alarmMinor{
+    background-color: lightblue !important;
+    font-size: 8px;
+}
+
+.alarmMajor{
+    background-color: lightsalmon !important;
+    font-size: 8px;
+}
+
+.alarmCritical{
+    background-color: lightcoral !important;
+    font-size: 8px;
+}
+
+.table td, .table th{
+    padding: 8px;
+}
+
+.flag-category{
+    padding: 0.5rem;
+}
+
+.alarm{
+    opacity: 0.7 !important;
+    fill: red !important;
+}
+
+.temp_normal{
+    color: darkgreen;
+    font-weight: bolder;
+}
+
+.temp_warning{
+    color: darkorange;
+    font-weight: bolder;
+}
+
+.temp_danger{
+    color: darkred;
+    font-weight: bolder;
+}
+
+.humid_normal{
+    color: darkgreen;
+    font-weight: bolder;
+}
+
+.humid_warning{
+    color: darkorange;
+    font-weight: bolder;
+}
+
+.humid_danger{
+    color: darkred;
+    font-weight: bolder;
+}
+
+.rak_sensor_detail{
+    width: 100%;
+    border-bottom: 1px solid #e9ecef;
+    margin-bottom: 15px;
+}
+
+.rak_sensor_detail table td:nth-child(1) {  
+    width: 100px;
+}
+
+#btn_viewall{
+    float: right;
+}
+
+.divider{
+    border-bottom: 1px solid #dee2e6;
+    width: 100%;
+    height: 1em;
+    margin-bottom: 1em;
+}
+
+#for-fullscreen.fullscreen{
+    z-index: 9999; 
+    width: 100%; 
+    height: 100%; 
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+}
+
+#map {
+width: 100%;
+height: 250px;
+background-color: grey;
+}
+
+#wrapper::after{
+    content: ''; 
+    width: 100%; 
+    height: 100%;
+    background-color: white; 
+    opacity: 0.9; 
+    position: absolute; 
+    top: 0; 
+    left: 0;
+    z-index: -1;
+}
+
+.card-login {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+    transition: 0.3s;
+    border-radius: 8px;
+    background-color: ghostwhite;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card-login:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3);
+}
+
+.card-menu {
+    /* height: 200px; */
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+    transition: 0.3s;
+    border-radius: 8px;
+    background-color: crimson;
+}
+
+.white {
+    color: azure;
+}
+
+.card-menu:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.5);
+}
+
+.form-material .form-control, .form-material .form-control.focus, .form-material .form-control:focus {
+    background-image: linear-gradient(#ff0000,#ff0000),linear-gradient(#e9ecef,#e9ecef);
+}
+
+.color-opct-8 {
+    opacity: 0.8;
+}
+
+.card-body-pd-10 {
+    padding: 0px;
+}
+
+.container-datacenter-layout .datacenter-button-container{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding-right: 20px;
+    margin-bottom: 10px; 
+}
+
+.container-datacenter-layout .datacenter-text-container{
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-style: italic;
+    color: darkolivegreen;
+    padding-right: 30px;
+}
+/* #for-fullscreen{background:#ffffff; width:100%; height:100%;} */
